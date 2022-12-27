@@ -1,0 +1,11 @@
+01 Dataset Crawling/.ipynb_checkpoints
+02 Dataset Cleaning and Creation of Subsets/.ipynb_checkpoints
+03 Dataset Annotation/.ipynb_checkpoints
+04 Train Models/.ipynb_checkpoints
+05 Corpus Analysis and Statistics/.ipynb_checkpoints
+06 Evaluate Model/.ipynb_checkpoints
+
+Datasets/raw_dataset/
+
+.DS_Store
+.ipynb_checkpoints
