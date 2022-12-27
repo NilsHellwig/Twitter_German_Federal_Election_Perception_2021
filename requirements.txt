@@ -1,4 +1,8 @@
 pandas
 numpy
-twint
+git+https://github.com/kevctae/twint.git@origin/master#egg=twint
 nest-asyncio
+googletransx
+aiohttp_socks
+elasticsearch
+geopy
