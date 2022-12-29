@@ -7,3 +7,4 @@ aiohttp_socks
 elasticsearch
 geopy
 scikit-learn
+openpyxl
