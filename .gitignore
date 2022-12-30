@@ -8,6 +8,8 @@
 Datasets/raw_dataset/
 Datasets/dataset/
 Datasets/annotation_dataset/
+Datasets/annotated_dataset/
+Datasets/annotations.csv
 
 .DS_Store
 .ipynb_checkpoints
