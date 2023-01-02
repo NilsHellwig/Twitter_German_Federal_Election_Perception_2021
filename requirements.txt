@@ -8,3 +8,5 @@ elasticsearch
 geopy
 scikit-learn
 openpyxl
+jupyterlab
+simpletransformers
