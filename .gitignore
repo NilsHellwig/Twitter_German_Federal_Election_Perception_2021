@@ -12,5 +12,9 @@ Datasets/annotated_dataset/
 Datasets/annotations.csv
 Datasets/k_fold_splits
 
+Datasets/GermEval2017/
+
+Models/Results/
+
 .DS_Store
 .ipynb_checkpoints

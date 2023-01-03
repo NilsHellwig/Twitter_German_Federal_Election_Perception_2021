@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 import pandas as pd
 import numpy as np
 
-def get_gemeval_2017_dataset(paths: list = ["../Datasets/GermEval2017/train-2017-09-15.xml", "../Datasets/GermEval2017/dev-2017-09-15.xml", "../Datasets/GermEval2017/test_TIMESTAMP1.xml", "../Datasets/GermEval2017/test_TIMESTAMP2.xml"]):
+def get_germeval_2017_dataset(paths: list = ["../Datasets/GermEval2017/train-2017-09-15.xml", "../Datasets/GermEval2017/dev-2017-09-15.xml", "../Datasets/GermEval2017/test_TIMESTAMP1.xml", "../Datasets/GermEval2017/test_TIMESTAMP2.xml"]):
     """
     Read the GemEval 2017 dataset from the given paths and return a Pandas DataFrame.
     """
@@ -33,6 +33,6 @@ def get_gemeval_2017_dataset(paths: list = ["../Datasets/GermEval2017/train-2017
     # swap the values in the first and second column
     data_raw[:, [1, 0]] = data_raw[:, [0, 1]]
     # create a Pandas DataFrame from the data_raw array and set the columns names
-    df = pd.DataFrame(data_raw, columns=["text", "sentiment"])
+    df = pd.DataFrame(data_raw, columns=["text", "sentiment_label"])
     # return the DataFrame
     return df
