@@ -15,6 +15,7 @@ Datasets/k_fold_splits
 Datasets/GermEval2017/
 
 Models/Results/
+Models/Outputs/
 
 .DS_Store
 .ipynb_checkpoints
