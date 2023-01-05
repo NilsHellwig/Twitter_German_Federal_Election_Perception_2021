@@ -15,7 +15,7 @@ Datasets/k_fold_splits
 Datasets/GermEval2017/
 
 Trainings/Results/
-Trainings/Outputs/
+Trainings/Models/
 
 Datasets/annotations_matched_filtered.csv
 
