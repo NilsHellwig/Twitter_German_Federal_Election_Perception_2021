@@ -3,7 +3,7 @@
 
 ## About
 
-This repository contains scripts and data that was developed for the paper  *Transformer-based Sentiment Analysis of the Perception for the Major German Parties on Twitter during the 2021 Federal Election*.
+This repository contains scripts and data that was developed for the paper  *Transformer-based Sentiment Analysis of the Perception of the Major German Parties on Twitter during the 2021 Federal Election*.
 
 Even though this repository contains the code to crawl the tweets from our paper, feel free to contact Nils-Constantin.Hellwig@student.ur.de to obtain the corpus.
 
