@@ -7,7 +7,6 @@
 
 Datasets/raw_dataset/
 Datasets/dataset/
-Datasets/annotated_dataset/
 Datasets/annotations.csv
 Datasets/k_fold_splits
 
