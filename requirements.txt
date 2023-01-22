@@ -11,3 +11,7 @@ openpyxl
 jupyterlab
 simpletransformers
 torch
+matplotlib
+wordcloud
+reportlab
+svglib
