@@ -11,11 +11,11 @@ NEUTRAL_COLOR = "#999999"
 MONTH_NAMES = {1: 'Jan', 2: 'Feb', 3: 'Mar', 4: 'Apr', 5: 'May',
                6: 'Jun', 7: 'Jul', 8: 'Aug', 9: 'Sep', 10: 'Oct', 11: 'Nov', 12: 'Dec'}
 
+FONT_PATH = 'fonts/LinLibertine_R.ttf'
 
 def setup_font(plt):
-    font_path = 'fonts/LinLibertine_R.ttf'  # Your font path goes here
-    font_manager.fontManager.addfont(font_path)
-    prop = font_manager.FontProperties(fname=font_path)
+    font_manager.fontManager.addfont(FONT_PATH)
+    prop = font_manager.FontProperties(fname=FONT_PATH)
 
     plt.rcParams['font.family'] = 'sans-serif'
     plt.rcParams.update({'font.size': 14})
