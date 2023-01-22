@@ -1,7 +1,24 @@
 import matplotlib.pyplot as plt
+from matplotlib import font_manager
 import pandas as pd
 
+
+def setup_font(plt):
+    font_path = 'fonts/LinLibertine_R.ttf'  # Your font path goes here
+    font_manager.fontManager.addfont(font_path)
+    prop = font_manager.FontProperties(fname=font_path)
+
+    plt.rcParams['font.family'] = 'sans-serif'
+    plt.rcParams.update({'font.size': 14})
+    plt.rcParams['font.sans-serif'] = prop.get_name()
+    return plt
+
 def plot_overall_sentiment(data, filename):
+    import matplotlib.pyplot as plt
+    
+    # Setup Font
+    plt = setup_font(plt)
+    
     # Set x_labels and bar_colors
     x_labels = ['Negative', 'Neutral', 'Positive']
     bar_colors = ['red', 'orange', 'green']
@@ -22,6 +39,11 @@ def plot_overall_sentiment(data, filename):
     
 
 def plot_sentiment(df, filename):
+    import matplotlib.pyplot as plt
+    
+    # Setup Font
+    plt = setup_font(plt)
+    
     # Group the data by party and sentiment, unstack to create a table
     data = df.groupby(['party'])['sentiment'].value_counts().unstack()
     # Normalize the data so that each column sums to 100
@@ -48,7 +70,7 @@ def plot_sentiment(df, filename):
 
     for c in ax.containers:
         # Add custom label to the bars
-        ax.bar_label(c, label_type='center', color='white', weight='bold', fontsize=12)
+        ax.bar_label(c, label_type='center', color='white', weight='bold', fontsize=14)
 
     plt.legend(loc='center left', bbox_to_anchor=(1, 0.5), title="Sentiment")
     plt.xticks(rotation=0)
