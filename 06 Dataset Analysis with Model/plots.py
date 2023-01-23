@@ -34,7 +34,7 @@ def plot_overall_sentiment(data, filename):
     bar_colors = [NEGATIVE_COLOR, NEUTRAL_COLOR, POSITIVE_COLOR]
 
     # Create the bar chart with the given data and colors
-    plt.bar(x_labels, data, color=bar_colors, edgecolor='black', alpha=0.7)
+    plt.bar(x_labels, data, color=bar_colors)
 
     # Add the x and y labels
     plt.xlabel('Sentiment')
@@ -45,6 +45,41 @@ def plot_overall_sentiment(data, filename):
         plt.savefig(filename+f_type, dpi=300, bbox_inches='tight')
 
     # Show the chart
+    plt.show()
+
+def plot_overall_opposition_government_sentiment(general_count, government_count, opposition_count, filename):
+    import matplotlib.pyplot as plt
+    
+    # Setup Font
+    plt = setup_font(plt)
+
+    # Set x_labels and bar_colors
+    x_labels = ['Negative', 'Neutral', 'Positive']
+    bar_colors = [NEGATIVE_COLOR, NEUTRAL_COLOR, POSITIVE_COLOR]
+
+    # Create a figure with 1 row and 3 columns of plots
+    fig, axs = plt.subplots(1, 3)
+
+    # Create the first bar chart for the general corpus
+    axs[0].bar(x_labels, general_count, color=bar_colors)
+    axs[0].set_title("Overall")
+
+    # Create the second bar chart for government
+    axs[1].bar(x_labels, government_count, color=bar_colors)
+    axs[1].set_title("Government")
+
+    # Create the third bar chart for opposition
+    axs[2].bar(x_labels, opposition_count, color=bar_colors)
+    axs[2].set_title("Opposition")
+
+    fig.set_figwidth(12)
+    fig.set_figheight(4)
+
+    # Save as svg, png and pdf
+    for f_type in [".svg", ".png", ".pdf"]:
+        plt.savefig(filename+f_type, dpi=300, bbox_inches='tight')
+
+    # Show the figure
     plt.show()
 
 
