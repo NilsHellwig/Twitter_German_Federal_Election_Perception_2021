@@ -15,3 +15,4 @@ matplotlib
 wordcloud
 reportlab
 svglib
+statsmodels
