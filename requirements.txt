@@ -16,3 +16,4 @@ wordcloud
 reportlab
 svglib
 statsmodels
+krippendorff
