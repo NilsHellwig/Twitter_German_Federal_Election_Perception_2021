@@ -34,5 +34,7 @@ def get_germeval_2017_dataset(paths: list = ["../Datasets/GermEval2017/train-201
     data_raw[:, [1, 0]] = data_raw[:, [0, 1]]
     # create a Pandas DataFrame from the data_raw array and set the columns names
     df = pd.DataFrame(data_raw, columns=["text", "sentiment_label"])
+    df = df.rename(columns={'sentiment_label': 'sentiment'})
+    df.reset_index()
     # return the DataFrame
     return df
