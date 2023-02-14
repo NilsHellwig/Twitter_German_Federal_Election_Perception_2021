@@ -14,7 +14,5 @@ Datasets/GermEval2017/
 Trainings/Results/
 Trainings/Models/
 
-Datasets/annotations_matched_filtered.csv
-
 .DS_Store
 .ipynb_checkpoints
