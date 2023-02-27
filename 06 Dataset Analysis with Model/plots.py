@@ -128,9 +128,13 @@ def plot_sentiment(df, filename):
         ax.bar_label(c, label_type='center', color='white',
                      weight='bold', fontsize=14)
 
-    plt.legend(loc='center left', bbox_to_anchor=(1, 0.5), title="Sentiment")
+    #plt.legend(loc='center left', bbox_to_anchor=(1, 0.5), title="Sentiment")
+    legend = plt.legend()
+    if legend is not None:
+        legend.remove()
+    
     plt.xticks(rotation=0)
-    plt.ylabel('Proportion')
+    plt.ylabel('% Proportion')
     plt.xlabel('Party')
 
     # Save as svg, png and pdf
@@ -147,7 +151,7 @@ def plot_sentiment_line_graph_for_each_month(df, filename):
     plt = setup_font(plt)
 
     # Set figure size and font size
-    plt.figure(figsize=(15, 8))
+    plt.figure(figsize=(15, 6))
     plt.rcParams.update({'font.size': 16})
 
     # Plot the sentiment value for each party and month
@@ -166,17 +170,17 @@ def plot_sentiment_line_graph_for_each_month(df, filename):
     plt.grid(alpha=0.5)
 
     # Add labels for the positive and negative y-axis directions
-    plt.text(-0.2, -0.3, 'Positive →', ha='center', va='center',
+    plt.text(-0.3, -0.35, 'Positive →', ha='center', va='center',
              rotation='vertical', fontsize=14, color=POSITIVE_COLOR)
-    plt.text(-0.2, -0.6, '← Negative', ha='center', va='center',
+    plt.text(-0.3, -0.55, '← Negative', ha='center', va='center',
              rotation='vertical', fontsize=14, color=NEGATIVE_COLOR)
 
     # Set y-axis limit
-    plt.ylim(-0.7, -0.2)
+    plt.ylim(-0.625, -0.275)
 
     # Add a vertical line to mark the election month
     plt.axvline(x=9, color='grey', linestyle='--')
-    plt.text(9.25, -0.25, 'Election Month', rotation=0)
+    plt.text(7.25, -0.325, 'Election Month', rotation=0)
 
     # Save as svg, png and pdf
     for f_type in [".svg", ".png", ".pdf"]:
@@ -191,7 +195,7 @@ def plot_sentiment_line_graph_for_each_month_6_week(df, filename):
     plt = setup_font(plt)
 
     # Set figure size and font size
-    plt.figure(figsize=(15, 8))
+    plt.figure(figsize=(15, 6))
     plt.rcParams.update({'font.size': 16})
 
     # Plot the sentiment value for each party and month
@@ -209,8 +213,8 @@ def plot_sentiment_line_graph_for_each_month_6_week(df, filename):
     plt.grid(alpha=0.5)
 
     # Add labels for the positive and negative y-axis directions
-    plt.text(-1.25, -0.1, 'Positive →', ha='center', va='center', rotation='vertical', fontsize=14, color=POSITIVE_COLOR)
-    plt.text(-1.25, -0.6, '← Negative', ha='center', va='center', rotation='vertical', fontsize=14, color=NEGATIVE_COLOR)
+    plt.text(-1.2, -0.1, 'Positive →', ha='center', va='center', rotation='vertical', fontsize=14, color=POSITIVE_COLOR)
+    plt.text(-1.2, -0.6, '← Negative', ha='center', va='center', rotation='vertical', fontsize=14, color=NEGATIVE_COLOR)
 
     # Set y-axis limit
     plt.ylim(-0.75, 0.05)
