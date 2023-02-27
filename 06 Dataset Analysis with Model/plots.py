@@ -59,6 +59,7 @@ def plot_overall_opposition_government_sentiment(general_count, government_count
 
     # Create a figure with 1 row and 3 columns of plots
     fig, axs = plt.subplots(1, 3)
+    fig.subplots_adjust(wspace=0.3)
 
     # Create the first bar chart for the general corpus
     axs[0].bar(x_labels, general_count, color=bar_colors)
