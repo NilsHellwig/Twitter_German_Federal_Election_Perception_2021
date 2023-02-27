@@ -1,0 +1,1684 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="730.046875pt" height="273.94175pt" viewBox="0 0 730.046875 273.94175" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2023-02-27T14:04:20.854334</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.6.3, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 273.94175 
+L 730.046875 273.94175 
+L 730.046875 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 53.246875 246.691125 
+L 250.188051 246.691125 
+L 250.188051 24.931125 
+L 53.246875 24.931125 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 62.198747 246.691125 
+L 113.352299 246.691125 
+L 113.352299 35.491125 
+L 62.198747 35.491125 
+z
+" clip-path="url(#pdf01b553d4)" style="fill: #ff0000"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 126.140687 246.691125 
+L 177.294239 246.691125 
+L 177.294239 106.801744 
+L 126.140687 106.801744 
+z
+" clip-path="url(#pdf01b553d4)" style="fill: #999999"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 190.082627 246.691125 
+L 241.23618 246.691125 
+L 241.23618 209.266399 
+L 190.082627 209.266399 
+z
+" clip-path="url(#pdf01b553d4)" style="fill: #006600"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m253173219e" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m253173219e" x="87.775523" y="246.691125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- Negative -->
+      <g transform="translate(62.35021 263.412375) scale(0.14 -0.14)">
+       <defs>
+        <path id="LinLibertine-4e" d="M 3559 3278 
+Q 3559 3503 3539 3620 
+Q 3519 3738 3442 3805 
+Q 3366 3872 3283 3890 
+Q 3200 3909 3003 3928 
+Q 2972 3953 2970 4031 
+Q 2969 4109 3003 4141 
+Q 3644 4128 3713 4128 
+Q 3803 4128 4428 4141 
+Q 4453 4109 4453 4032 
+Q 4453 3956 4428 3928 
+Q 4069 3891 3970 3789 
+Q 3872 3688 3872 3278 
+L 3872 134 
+Q 3872 -63 3725 -63 
+Q 3584 -63 3469 91 
+L 1234 2913 
+Q 1069 3125 1017 3123 
+Q 966 3122 966 2809 
+L 966 850 
+Q 966 625 986 508 
+Q 1006 391 1082 323 
+Q 1159 256 1242 237 
+Q 1325 219 1522 197 
+Q 1547 166 1548 89 
+Q 1550 13 1522 -13 
+Q 881 0 813 0 
+Q 722 0 97 -13 
+Q 66 13 64 89 
+Q 63 166 97 197 
+Q 456 234 554 337 
+Q 653 441 653 850 
+L 653 3519 
+Q 622 3659 481 3787 
+Q 341 3916 147 3928 
+Q 116 3953 116 4031 
+Q 116 4109 147 4141 
+L 1013 4128 
+L 3206 1300 
+Q 3250 1244 3301 1172 
+Q 3353 1100 3379 1069 
+Q 3406 1038 3434 1005 
+Q 3463 972 3481 959 
+Q 3500 947 3513 947 
+Q 3556 947 3559 1141 
+L 3559 3278 
+z
+" transform="scale(0.015625)"/>
+        <path id="LinLibertine-65" d="M 794 1806 
+L 1953 1825 
+Q 2050 1825 2047 1913 
+Q 2047 2278 1890 2431 
+Q 1734 2584 1516 2584 
+Q 1431 2584 1350 2562 
+Q 1269 2541 1150 2470 
+Q 1031 2400 934 2228 
+Q 838 2056 794 1806 
+z
+M 2472 594 
+Q 2581 588 2606 494 
+Q 2178 -63 1516 -63 
+Q 881 -63 538 347 
+Q 238 694 238 1294 
+Q 238 1972 644 2384 
+Q 1050 2797 1516 2797 
+Q 2597 2797 2597 1684 
+Q 2597 1575 2478 1575 
+L 775 1588 
+Q 775 1050 978 709 
+Q 1259 250 1678 250 
+Q 1947 250 2117 326 
+Q 2288 403 2472 594 
+z
+" transform="scale(0.015625)"/>
+        <path id="LinLibertine-67" d="M 2041 1784 
+Q 2041 2181 1881 2397 
+Q 1722 2613 1422 2613 
+Q 909 2613 909 1931 
+Q 909 1753 928 1622 
+Q 947 1491 1005 1353 
+Q 1063 1216 1188 1142 
+Q 1313 1069 1503 1069 
+Q 2041 1069 2041 1784 
+z
+M 844 -63 
+Q 647 -300 647 -666 
+Q 647 -953 915 -1120 
+Q 1184 -1288 1416 -1288 
+Q 1716 -1288 1997 -1209 
+Q 2278 -1131 2473 -965 
+Q 2669 -800 2669 -581 
+Q 2669 -459 2598 -376 
+Q 2528 -294 2344 -184 
+Q 2147 -75 1569 -78 
+Q 1538 -78 1377 -87 
+Q 1216 -97 1100 -97 
+Q 959 -94 844 -63 
+z
+M 2841 2478 
+Q 2719 2478 2663 2591 
+Q 2613 2669 2534 2669 
+Q 2478 2669 2397 2617 
+Q 2316 2566 2278 2516 
+Q 2553 2234 2553 1850 
+Q 2553 1403 2236 1137 
+Q 1919 872 1472 872 
+Q 1119 872 891 1006 
+Q 775 847 775 634 
+Q 775 450 897 359 
+Q 1019 269 1184 269 
+L 1375 281 
+Q 1631 313 1806 313 
+Q 2484 313 2741 103 
+Q 3022 -128 3022 -416 
+Q 3022 -747 2750 -1008 
+Q 2478 -1269 2070 -1395 
+Q 1663 -1522 1222 -1522 
+Q 794 -1522 500 -1350 
+Q 206 -1178 206 -794 
+Q 206 -334 728 -19 
+Q 434 128 434 475 
+Q 434 647 511 830 
+Q 588 1013 716 1119 
+Q 384 1438 384 1838 
+Q 384 2266 711 2537 
+Q 1038 2809 1478 2809 
+Q 1875 2809 2144 2631 
+Q 2259 2784 2451 2870 
+Q 2644 2956 2784 2956 
+Q 2913 2956 2995 2889 
+Q 3078 2822 3078 2719 
+Q 3078 2622 3004 2550 
+Q 2931 2478 2841 2478 
+z
+" transform="scale(0.015625)"/>
+        <path id="LinLibertine-61" d="M 1875 1491 
+L 1369 1356 
+Q 759 1203 763 653 
+Q 763 481 880 339 
+Q 997 197 1222 197 
+Q 1447 197 1784 475 
+Q 1875 538 1875 641 
+L 1875 1491 
+z
+M 1875 306 
+L 1863 306 
+L 1734 206 
+Q 1522 41 1387 -11 
+Q 1253 -63 1038 -63 
+Q 672 -63 451 103 
+Q 231 269 231 628 
+Q 231 947 522 1190 
+Q 813 1434 1288 1556 
+L 1838 1691 
+Q 1875 1703 1875 1766 
+Q 1875 2597 1356 2597 
+Q 1144 2597 984 2530 
+Q 825 2463 825 2328 
+Q 825 2238 838 2203 
+Q 856 2166 856 2088 
+Q 856 2016 779 1945 
+Q 703 1875 575 1875 
+Q 350 1875 353 2100 
+Q 353 2363 686 2586 
+Q 1019 2809 1409 2809 
+Q 2375 2809 2375 1728 
+L 2375 775 
+Q 2375 591 2384 494 
+Q 2394 397 2455 314 
+Q 2516 231 2631 231 
+Q 2709 231 2765 281 
+Q 2822 331 2828 331 
+Q 2847 331 2880 293 
+Q 2913 256 2913 225 
+Q 2913 206 2845 139 
+Q 2778 72 2643 4 
+Q 2509 -63 2369 -63 
+Q 1984 -66 1875 306 
+z
+" transform="scale(0.015625)"/>
+        <path id="LinLibertine-74" d="M 275 2747 
+L 569 2747 
+Q 569 2944 567 3086 
+Q 566 3228 562 3293 
+Q 559 3359 556 3396 
+Q 553 3434 551 3453 
+Q 550 3472 550 3488 
+Q 550 3509 575 3528 
+Q 600 3547 629 3556 
+Q 659 3566 711 3581 
+Q 763 3597 794 3609 
+Q 831 3625 890 3656 
+Q 950 3688 990 3706 
+Q 1031 3725 1050 3725 
+Q 1100 3725 1100 3669 
+Q 1075 3413 1075 2994 
+L 1075 2747 
+L 1844 2747 
+Q 1894 2747 1894 2706 
+L 1894 2578 
+Q 1894 2494 1741 2497 
+L 1075 2497 
+L 1075 878 
+Q 1075 566 1120 427 
+Q 1166 288 1288 288 
+Q 1581 288 1813 469 
+Q 1909 463 1925 359 
+Q 1547 -63 1063 -63 
+Q 569 -63 569 569 
+L 569 2497 
+L 191 2497 
+Q 159 2497 159 2534 
+L 159 2619 
+Q 159 2747 275 2747 
+z
+" transform="scale(0.015625)"/>
+        <path id="LinLibertine-69" d="M 575 3834 
+Q 575 3950 684 4045 
+Q 794 4141 909 4141 
+Q 1031 4141 1123 4034 
+Q 1216 3928 1216 3809 
+Q 1216 3700 1114 3600 
+Q 1013 3500 884 3500 
+Q 769 3500 672 3606 
+Q 575 3713 575 3834 
+z
+M 1159 781 
+Q 1159 397 1236 308 
+Q 1313 219 1619 197 
+Q 1650 166 1650 89 
+Q 1650 13 1619 -13 
+Q 1069 0 909 0 
+Q 731 0 191 -13 
+Q 166 13 166 89 
+Q 166 166 191 197 
+Q 497 222 575 309 
+Q 653 397 653 781 
+L 653 2028 
+Q 653 2297 579 2367 
+Q 506 2438 238 2463 
+Q 200 2572 225 2644 
+Q 819 2722 1100 2828 
+Q 1184 2828 1184 2784 
+Q 1184 2769 1181 2739 
+Q 1178 2709 1175 2620 
+Q 1172 2531 1167 2448 
+Q 1163 2366 1161 2256 
+Q 1159 2147 1159 2056 
+L 1159 781 
+z
+" transform="scale(0.015625)"/>
+        <path id="LinLibertine-76" d="M 2081 2547 
+Q 2050 2572 2048 2648 
+Q 2047 2725 2081 2759 
+Q 2556 2747 2695 2747 
+Q 2834 2747 3116 2759 
+Q 3147 2728 3148 2650 
+Q 3150 2572 3116 2547 
+Q 2984 2534 2898 2503 
+Q 2813 2472 2750 2398 
+Q 2688 2325 2656 2265 
+Q 2625 2206 2569 2075 
+L 1716 72 
+Q 1653 -75 1563 -78 
+Q 1453 -78 1403 56 
+L 584 2081 
+Q 575 2103 563 2138 
+Q 472 2369 392 2444 
+Q 313 2519 72 2547 
+Q 41 2572 39 2648 
+Q 38 2725 72 2759 
+Q 547 2747 634 2747 
+Q 841 2747 1313 2759 
+Q 1344 2728 1344 2650 
+Q 1344 2572 1313 2547 
+Q 1238 2541 1186 2530 
+Q 1134 2519 1096 2511 
+Q 1059 2503 1045 2475 
+Q 1031 2447 1020 2436 
+Q 1009 2425 1021 2378 
+Q 1034 2331 1039 2312 
+Q 1044 2294 1072 2222 
+Q 1100 2150 1113 2119 
+L 1575 884 
+Q 1653 688 1693 680 
+Q 1734 672 1813 863 
+L 2328 2119 
+Q 2431 2363 2384 2445 
+Q 2338 2528 2081 2547 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#LinLibertine-4e"/>
+       <use xlink:href="#LinLibertine-65" x="69.873047"/>
+       <use xlink:href="#LinLibertine-67" x="114.550781"/>
+       <use xlink:href="#LinLibertine-61" x="164.550781"/>
+       <use xlink:href="#LinLibertine-74" x="210.205078"/>
+       <use xlink:href="#LinLibertine-69" x="241.796875"/>
+       <use xlink:href="#LinLibertine-76" x="268.896484"/>
+       <use xlink:href="#LinLibertine-65" x="318.554688"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m253173219e" x="151.717463" y="246.691125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- Neutral -->
+      <g transform="translate(130.129026 263.467062) scale(0.14 -0.14)">
+       <defs>
+        <path id="LinLibertine-75" d="M 1388 -63 
+Q 947 -63 755 182 
+Q 563 428 563 806 
+L 563 2034 
+Q 563 2334 483 2431 
+Q 403 2528 166 2547 
+Q 141 2572 141 2648 
+Q 141 2725 166 2759 
+Q 641 2747 819 2747 
+Q 978 2747 1044 2759 
+Q 1094 2759 1094 2719 
+Q 1069 2250 1069 2059 
+L 1069 897 
+Q 1069 519 1225 378 
+Q 1381 238 1581 238 
+Q 1869 238 2222 544 
+Q 2325 634 2322 794 
+L 2322 2028 
+Q 2322 2334 2245 2434 
+Q 2169 2534 1925 2547 
+Q 1894 2572 1894 2648 
+Q 1894 2725 1925 2759 
+Q 2400 2747 2578 2747 
+Q 2738 2747 2803 2759 
+Q 2853 2759 2853 2719 
+Q 2828 2250 2828 2059 
+L 2828 831 
+Q 2828 581 2915 486 
+Q 3003 391 3297 366 
+Q 3328 334 3328 276 
+Q 3328 219 3297 191 
+Q 2759 128 2522 -63 
+Q 2450 -81 2400 -63 
+Q 2328 169 2328 313 
+Q 2328 384 2253 319 
+Q 1784 -63 1388 -63 
+z
+" transform="scale(0.015625)"/>
+        <path id="LinLibertine-72" d="M 1147 2291 
+Q 1147 2259 1156 2246 
+Q 1166 2234 1197 2278 
+Q 1325 2497 1514 2653 
+Q 1703 2809 1906 2809 
+Q 2091 2809 2191 2711 
+Q 2291 2613 2291 2503 
+Q 2291 2381 2198 2281 
+Q 2106 2181 1991 2181 
+Q 1947 2181 1901 2204 
+Q 1856 2228 1834 2250 
+Q 1813 2272 1777 2314 
+Q 1741 2356 1728 2369 
+Q 1684 2413 1594 2413 
+Q 1516 2413 1300 2100 
+Q 1147 1869 1147 1672 
+L 1147 781 
+Q 1147 397 1233 311 
+Q 1319 225 1672 197 
+Q 1703 166 1703 89 
+Q 1703 13 1672 -13 
+Q 1122 0 897 0 
+Q 706 0 166 -13 
+Q 141 13 141 89 
+Q 141 166 166 197 
+Q 478 216 559 306 
+Q 641 397 641 781 
+L 641 2028 
+Q 641 2297 567 2367 
+Q 494 2438 225 2463 
+Q 188 2572 213 2644 
+Q 713 2706 1019 2828 
+Q 1069 2828 1094 2778 
+Q 1147 2663 1147 2291 
+z
+" transform="scale(0.015625)"/>
+        <path id="LinLibertine-6c" d="M 609 781 
+L 609 3578 
+Q 609 3784 598 3886 
+Q 588 3988 517 4036 
+Q 447 4084 409 4087 
+Q 372 4091 197 4103 
+Q 125 4175 159 4294 
+Q 728 4338 1056 4469 
+Q 1141 4469 1141 4403 
+Q 1116 4147 1113 3731 
+L 1113 781 
+Q 1113 397 1194 305 
+Q 1275 213 1575 197 
+Q 1600 166 1600 89 
+Q 1600 13 1575 -13 
+Q 1025 0 863 0 
+Q 684 0 147 -13 
+Q 116 13 116 89 
+Q 116 166 147 197 
+Q 447 209 528 303 
+Q 609 397 609 781 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#LinLibertine-4e"/>
+       <use xlink:href="#LinLibertine-65" x="69.873047"/>
+       <use xlink:href="#LinLibertine-75" x="114.550781"/>
+       <use xlink:href="#LinLibertine-74" x="167.626953"/>
+       <use xlink:href="#LinLibertine-72" x="199.21875"/>
+       <use xlink:href="#LinLibertine-61" x="236.376953"/>
+       <use xlink:href="#LinLibertine-6c" x="282.03125"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m253173219e" x="215.659404" y="246.691125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- Positive -->
+      <g transform="translate(193.081122 263.467062) scale(0.14 -0.14)">
+       <defs>
+        <path id="LinLibertine-50" d="M 1209 3547 
+L 1209 2053 
+Q 1325 2022 1697 2022 
+Q 2172 2022 2411 2256 
+Q 2650 2491 2650 2994 
+Q 2650 3550 2406 3753 
+Q 2163 3956 1766 3956 
+Q 1209 3956 1209 3547 
+z
+M 666 3347 
+Q 666 3731 567 3823 
+Q 469 3916 109 3928 
+Q 78 3953 78 4031 
+Q 78 4109 109 4141 
+Q 750 4128 934 4128 
+Q 1075 4128 1408 4150 
+Q 1741 4172 1813 4172 
+Q 2228 4172 2528 4064 
+Q 2828 3956 2975 3779 
+Q 3122 3603 3183 3440 
+Q 3244 3278 3244 3109 
+Q 3244 2884 3167 2670 
+Q 3091 2456 2928 2254 
+Q 2766 2053 2455 1929 
+Q 2144 1806 1728 1806 
+Q 1409 1806 1209 1869 
+L 1209 781 
+Q 1209 403 1331 311 
+Q 1453 219 1863 197 
+Q 1894 166 1894 89 
+Q 1894 13 1863 -13 
+Q 1222 0 941 0 
+Q 734 0 109 -13 
+Q 78 13 78 89 
+Q 78 166 109 197 
+Q 469 209 567 303 
+Q 666 397 666 781 
+L 666 3347 
+z
+" transform="scale(0.015625)"/>
+        <path id="LinLibertine-6f" d="M 263 1313 
+Q 263 1947 616 2363 
+Q 997 2809 1619 2809 
+Q 2078 2809 2395 2582 
+Q 2713 2356 2838 2042 
+Q 2963 1728 2963 1369 
+Q 2963 700 2547 294 
+Q 2181 -66 1606 -63 
+Q 966 -63 614 353 
+Q 263 769 263 1313 
+z
+M 1522 2584 
+Q 813 2584 813 1459 
+Q 813 1253 861 1042 
+Q 909 831 1004 626 
+Q 1100 422 1279 290 
+Q 1459 159 1697 159 
+Q 1978 159 2195 390 
+Q 2413 622 2413 1166 
+Q 2413 1850 2175 2217 
+Q 1938 2584 1522 2584 
+z
+" transform="scale(0.015625)"/>
+        <path id="LinLibertine-73" d="M 306 884 
+Q 338 916 406 916 
+Q 475 916 506 891 
+Q 616 438 756 300 
+Q 897 147 1209 147 
+Q 1416 147 1584 262 
+Q 1753 378 1753 594 
+Q 1753 806 1622 934 
+Q 1491 1063 1100 1222 
+Q 716 1381 556 1567 
+Q 397 1753 397 2094 
+Q 397 2394 665 2601 
+Q 934 2809 1300 2809 
+Q 1447 2809 1600 2787 
+Q 1753 2766 1923 2730 
+Q 2094 2694 2138 2688 
+Q 2138 2603 2119 2370 
+Q 2100 2138 2100 2009 
+Q 2069 1978 1997 1978 
+Q 1925 1978 1894 2003 
+Q 1863 2194 1789 2322 
+Q 1716 2450 1616 2504 
+Q 1516 2559 1442 2578 
+Q 1369 2597 1300 2597 
+Q 1128 2597 989 2486 
+Q 850 2375 850 2188 
+Q 850 2084 884 2003 
+Q 919 1922 961 1870 
+Q 1003 1819 1103 1764 
+Q 1203 1709 1272 1681 
+Q 1341 1653 1491 1594 
+Q 2241 1309 2241 744 
+Q 2241 519 2134 351 
+Q 2028 184 1862 98 
+Q 1697 13 1536 -25 
+Q 1375 -63 1222 -63 
+Q 909 -63 641 6 
+Q 597 19 513 19 
+Q 450 19 353 0 
+Q 350 334 306 884 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#LinLibertine-50"/>
+       <use xlink:href="#LinLibertine-6f" x="53.076172"/>
+       <use xlink:href="#LinLibertine-73" x="103.466797"/>
+       <use xlink:href="#LinLibertine-69" x="142.431641"/>
+       <use xlink:href="#LinLibertine-74" x="169.53125"/>
+       <use xlink:href="#LinLibertine-69" x="201.123047"/>
+       <use xlink:href="#LinLibertine-76" x="228.222656"/>
+       <use xlink:href="#LinLibertine-65" x="277.880859"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_4">
+      <defs>
+       <path id="m9ade7dbe6a" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m9ade7dbe6a" x="53.246875" y="246.691125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- 0 -->
+      <g transform="translate(39.739063 251.579094) scale(0.14 -0.14)">
+       <defs>
+        <path id="LinLibertine-30" d="M 1484 3681 
+Q 1363 3681 1255 3603 
+Q 1147 3525 1040 3340 
+Q 934 3156 870 2762 
+Q 806 2369 806 1813 
+Q 806 163 1466 159 
+Q 1522 159 1586 178 
+Q 1650 197 1737 251 
+Q 1825 306 1904 431 
+Q 1984 556 2034 744 
+Q 2144 1141 2144 2059 
+Q 2144 3256 1772 3572 
+Q 1650 3681 1484 3681 
+z
+M 1459 -63 
+Q 1078 -63 809 206 
+Q 547 466 398 916 
+Q 250 1366 250 1881 
+Q 250 2791 617 3347 
+Q 984 3903 1484 3903 
+Q 1953 3903 2266 3488 
+Q 2700 2913 2700 1941 
+Q 2700 1409 2578 998 
+Q 2456 588 2262 367 
+Q 2069 147 1862 42 
+Q 1656 -63 1459 -63 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#LinLibertine-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m9ade7dbe6a" x="53.246875" y="191.75736" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <!-- 100000 -->
+      <g transform="translate(7.2 196.645329) scale(0.14 -0.14)">
+       <defs>
+        <path id="LinLibertine-31" d="M 1844 781 
+Q 1844 397 1942 305 
+Q 2041 213 2400 197 
+Q 2431 166 2431 89 
+Q 2431 13 2400 -13 
+Q 1759 0 1619 0 
+Q 1356 0 728 -13 
+Q 703 13 703 89 
+Q 703 166 728 197 
+Q 1100 209 1225 309 
+Q 1350 409 1350 781 
+L 1350 2869 
+Q 1350 3241 1222 3238 
+Q 1050 3238 666 3078 
+Q 588 3128 569 3250 
+Q 1466 3666 1825 3891 
+Q 1863 3891 1863 3859 
+Q 1844 3713 1844 3003 
+L 1844 781 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#LinLibertine-31"/>
+       <use xlink:href="#LinLibertine-30" x="46.484375"/>
+       <use xlink:href="#LinLibertine-30" x="92.96875"/>
+       <use xlink:href="#LinLibertine-30" x="139.453125"/>
+       <use xlink:href="#LinLibertine-30" x="185.9375"/>
+       <use xlink:href="#LinLibertine-30" x="232.421875"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m9ade7dbe6a" x="53.246875" y="136.823595" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- 200000 -->
+      <g transform="translate(7.2 141.711564) scale(0.14 -0.14)">
+       <defs>
+        <path id="LinLibertine-32" d="M 391 2994 
+Q 391 3313 717 3608 
+Q 1044 3903 1544 3903 
+Q 1978 3903 2301 3658 
+Q 2625 3413 2625 2931 
+Q 2625 2700 2528 2495 
+Q 2431 2291 2320 2159 
+Q 2209 2028 1984 1813 
+L 1338 1191 
+Q 863 716 863 416 
+L 2003 416 
+Q 2175 416 2272 550 
+Q 2369 684 2450 1031 
+Q 2572 1056 2638 997 
+Q 2625 550 2484 -13 
+Q 2191 0 1984 0 
+L 863 0 
+L 331 -13 
+Q 331 294 476 578 
+Q 622 863 1063 1313 
+L 1538 1778 
+Q 2063 2309 2059 2906 
+Q 2059 3322 1890 3501 
+Q 1722 3681 1503 3681 
+Q 1184 3681 1028 3559 
+Q 872 3438 872 3291 
+Q 872 3259 897 3201 
+Q 922 3144 922 3138 
+Q 947 3047 947 3003 
+Q 947 2906 842 2826 
+Q 738 2747 647 2747 
+Q 544 2747 467 2819 
+Q 391 2891 391 2994 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#LinLibertine-32"/>
+       <use xlink:href="#LinLibertine-30" x="46.484375"/>
+       <use xlink:href="#LinLibertine-30" x="92.96875"/>
+       <use xlink:href="#LinLibertine-30" x="139.453125"/>
+       <use xlink:href="#LinLibertine-30" x="185.9375"/>
+       <use xlink:href="#LinLibertine-30" x="232.421875"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m9ade7dbe6a" x="53.246875" y="81.889831" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <!-- 300000 -->
+      <g transform="translate(7.2 86.777799) scale(0.14 -0.14)">
+       <defs>
+        <path id="LinLibertine-33" d="M 1375 3681 
+Q 1259 3681 1139 3648 
+Q 1019 3616 894 3497 
+Q 769 3378 769 3194 
+Q 769 2863 519 2859 
+Q 416 2859 358 2931 
+Q 300 3003 300 3078 
+Q 300 3175 361 3300 
+Q 422 3425 550 3569 
+Q 678 3713 931 3808 
+Q 1184 3903 1509 3903 
+Q 1963 3903 2209 3653 
+Q 2409 3450 2409 3147 
+Q 2409 2878 2261 2676 
+Q 2113 2475 1734 2297 
+L 1741 2284 
+Q 2100 2228 2372 1984 
+Q 2644 1741 2644 1275 
+Q 2644 666 2220 301 
+Q 1797 -63 1203 -63 
+Q 884 -63 582 60 
+Q 281 184 281 366 
+Q 281 444 367 516 
+Q 453 588 550 588 
+Q 703 588 825 422 
+Q 831 416 854 381 
+Q 878 347 887 333 
+Q 897 319 919 291 
+Q 941 263 959 250 
+Q 978 238 1014 214 
+Q 1050 191 1087 181 
+Q 1125 172 1176 165 
+Q 1228 159 1288 159 
+Q 1391 159 1508 204 
+Q 1625 250 1762 348 
+Q 1900 447 1990 665 
+Q 2081 884 2081 1184 
+Q 2081 2009 1241 2009 
+Q 1044 2009 934 1997 
+L 903 2203 
+Q 1347 2266 1628 2548 
+Q 1909 2831 1909 3103 
+Q 1909 3300 1831 3433 
+Q 1753 3566 1637 3623 
+Q 1522 3681 1375 3681 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#LinLibertine-33"/>
+       <use xlink:href="#LinLibertine-30" x="46.484375"/>
+       <use xlink:href="#LinLibertine-30" x="92.96875"/>
+       <use xlink:href="#LinLibertine-30" x="139.453125"/>
+       <use xlink:href="#LinLibertine-30" x="185.9375"/>
+       <use xlink:href="#LinLibertine-30" x="232.421875"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m9ade7dbe6a" x="53.246875" y="26.956066" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <!-- 400000 -->
+      <g transform="translate(7.2 31.844035) scale(0.14 -0.14)">
+       <defs>
+        <path id="LinLibertine-34" d="M 1734 3244 
+Q 1247 2578 513 1403 
+L 1734 1403 
+L 1734 3244 
+z
+M 2753 1403 
+Q 2850 1403 2847 1300 
+Q 2847 1244 2786 1172 
+Q 2725 1100 2663 1100 
+L 2222 1100 
+L 2222 513 
+Q 2222 409 2237 348 
+Q 2253 288 2320 259 
+Q 2388 231 2425 225 
+Q 2463 219 2603 203 
+Q 2647 197 2669 197 
+Q 2700 166 2700 89 
+Q 2700 13 2669 -13 
+Q 2259 0 1972 0 
+Q 1625 0 1216 -13 
+Q 1191 13 1191 89 
+Q 1191 166 1216 197 
+Q 1559 222 1644 291 
+Q 1734 363 1734 513 
+L 1734 1100 
+L 428 1100 
+Q 231 1100 178 1369 
+Q 1169 2925 1913 3834 
+Q 1969 3906 2016 3903 
+L 2222 3903 
+L 2234 3891 
+Q 2222 3834 2222 3272 
+L 2222 1403 
+L 2753 1403 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#LinLibertine-34"/>
+       <use xlink:href="#LinLibertine-30" x="46.484375"/>
+       <use xlink:href="#LinLibertine-30" x="92.96875"/>
+       <use xlink:href="#LinLibertine-30" x="139.453125"/>
+       <use xlink:href="#LinLibertine-30" x="185.9375"/>
+       <use xlink:href="#LinLibertine-30" x="232.421875"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="patch_6">
+    <path d="M 53.246875 246.691125 
+L 53.246875 24.931125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 250.188051 246.691125 
+L 250.188051 24.931125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 53.246875 246.691125 
+L 250.188051 246.691125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 53.246875 24.931125 
+L 250.188051 24.931125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_9">
+    <!-- Overall -->
+    <g transform="translate(126.512213 18.931125) scale(0.168 -0.168)">
+     <defs>
+      <path id="LinLibertine-4f" d="M 2119 3994 
+Q 1888 3994 1670 3881 
+Q 1453 3769 1267 3551 
+Q 1081 3334 965 2953 
+Q 850 2572 850 2094 
+Q 850 1209 1298 681 
+Q 1747 153 2369 153 
+Q 2931 153 3289 650 
+Q 3647 1147 3647 1984 
+Q 3647 2925 3212 3459 
+Q 2778 3994 2119 3994 
+z
+M 4263 2106 
+Q 4263 1306 3866 744 
+Q 3597 359 3180 148 
+Q 2763 -63 2241 -63 
+Q 1397 -63 817 500 
+Q 238 1063 238 1984 
+Q 238 2831 675 3431 
+Q 944 3800 1339 4006 
+Q 1734 4213 2203 4213 
+Q 3094 4213 3678 3642 
+Q 4263 3072 4263 2106 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#LinLibertine-4f"/>
+     <use xlink:href="#LinLibertine-76" x="70.166016"/>
+     <use xlink:href="#LinLibertine-65" x="119.824219"/>
+     <use xlink:href="#LinLibertine-72" x="164.501953"/>
+     <use xlink:href="#LinLibertine-61" x="201.660156"/>
+     <use xlink:href="#LinLibertine-6c" x="247.314453"/>
+     <use xlink:href="#LinLibertine-6c" x="273.681641"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_10">
+    <path d="M 289.576287 246.691125 
+L 486.517463 246.691125 
+L 486.517463 24.931125 
+L 289.576287 24.931125 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 298.528158 246.691125 
+L 349.681711 246.691125 
+L 349.681711 35.491125 
+L 298.528158 35.491125 
+z
+" clip-path="url(#pbadd94b81e)" style="fill: #ff0000"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 362.470099 246.691125 
+L 413.623651 246.691125 
+L 413.623651 107.483908 
+L 362.470099 107.483908 
+z
+" clip-path="url(#pbadd94b81e)" style="fill: #999999"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 426.412039 246.691125 
+L 477.565592 246.691125 
+L 477.565592 209.856739 
+L 426.412039 209.856739 
+z
+" clip-path="url(#pbadd94b81e)" style="fill: #006600"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_4">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m253173219e" x="324.104935" y="246.691125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <!-- Negative -->
+      <g transform="translate(298.679622 263.412375) scale(0.14 -0.14)">
+       <use xlink:href="#LinLibertine-4e"/>
+       <use xlink:href="#LinLibertine-65" x="69.873047"/>
+       <use xlink:href="#LinLibertine-67" x="114.550781"/>
+       <use xlink:href="#LinLibertine-61" x="164.550781"/>
+       <use xlink:href="#LinLibertine-74" x="210.205078"/>
+       <use xlink:href="#LinLibertine-69" x="241.796875"/>
+       <use xlink:href="#LinLibertine-76" x="268.896484"/>
+       <use xlink:href="#LinLibertine-65" x="318.554688"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m253173219e" x="388.046875" y="246.691125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <!-- Neutral -->
+      <g transform="translate(366.458437 263.467062) scale(0.14 -0.14)">
+       <use xlink:href="#LinLibertine-4e"/>
+       <use xlink:href="#LinLibertine-65" x="69.873047"/>
+       <use xlink:href="#LinLibertine-75" x="114.550781"/>
+       <use xlink:href="#LinLibertine-74" x="167.626953"/>
+       <use xlink:href="#LinLibertine-72" x="199.21875"/>
+       <use xlink:href="#LinLibertine-61" x="236.376953"/>
+       <use xlink:href="#LinLibertine-6c" x="282.03125"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m253173219e" x="451.988815" y="246.691125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <!-- Positive -->
+      <g transform="translate(429.410534 263.467062) scale(0.14 -0.14)">
+       <use xlink:href="#LinLibertine-50"/>
+       <use xlink:href="#LinLibertine-6f" x="53.076172"/>
+       <use xlink:href="#LinLibertine-73" x="103.466797"/>
+       <use xlink:href="#LinLibertine-69" x="142.431641"/>
+       <use xlink:href="#LinLibertine-74" x="169.53125"/>
+       <use xlink:href="#LinLibertine-69" x="201.123047"/>
+       <use xlink:href="#LinLibertine-76" x="228.222656"/>
+       <use xlink:href="#LinLibertine-65" x="277.880859"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_6">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m9ade7dbe6a" x="289.576287" y="246.691125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <!-- 0 -->
+      <g transform="translate(276.068474 251.579094) scale(0.14 -0.14)">
+       <use xlink:href="#LinLibertine-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m9ade7dbe6a" x="289.576287" y="204.239546" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <!-- 50000 -->
+      <g transform="translate(250.037224 209.127515) scale(0.14 -0.14)">
+       <defs>
+        <path id="LinLibertine-35" d="M 2041 1209 
+Q 2041 1709 1836 1945 
+Q 1631 2181 1300 2181 
+Q 897 2181 488 2028 
+L 703 3872 
+Q 1075 3841 1394 3841 
+Q 1778 3841 2444 3909 
+L 2491 3884 
+L 2388 3450 
+Q 1991 3413 1716 3413 
+Q 1497 3413 966 3469 
+L 838 2400 
+Q 1100 2503 1466 2503 
+Q 1984 2503 2298 2158 
+Q 2613 1813 2613 1325 
+Q 2613 716 2231 322 
+Q 1850 -72 1253 -72 
+Q 959 -72 653 76 
+Q 347 225 347 409 
+Q 347 506 420 576 
+Q 494 647 588 647 
+Q 759 647 916 441 
+Q 922 428 953 387 
+Q 984 347 998 326 
+Q 1013 306 1044 275 
+Q 1075 244 1100 228 
+Q 1125 213 1164 189 
+Q 1203 166 1245 159 
+Q 1288 153 1338 153 
+Q 1631 153 1836 458 
+Q 2041 763 2041 1209 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#LinLibertine-35"/>
+       <use xlink:href="#LinLibertine-30" x="46.484375"/>
+       <use xlink:href="#LinLibertine-30" x="92.96875"/>
+       <use xlink:href="#LinLibertine-30" x="139.453125"/>
+       <use xlink:href="#LinLibertine-30" x="185.9375"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m9ade7dbe6a" x="289.576287" y="161.787968" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <!-- 100000 -->
+      <g transform="translate(243.529412 166.675936) scale(0.14 -0.14)">
+       <use xlink:href="#LinLibertine-31"/>
+       <use xlink:href="#LinLibertine-30" x="46.484375"/>
+       <use xlink:href="#LinLibertine-30" x="92.96875"/>
+       <use xlink:href="#LinLibertine-30" x="139.453125"/>
+       <use xlink:href="#LinLibertine-30" x="185.9375"/>
+       <use xlink:href="#LinLibertine-30" x="232.421875"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m9ade7dbe6a" x="289.576287" y="119.336389" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <!-- 150000 -->
+      <g transform="translate(243.529412 124.224358) scale(0.14 -0.14)">
+       <use xlink:href="#LinLibertine-31"/>
+       <use xlink:href="#LinLibertine-35" x="46.484375"/>
+       <use xlink:href="#LinLibertine-30" x="92.96875"/>
+       <use xlink:href="#LinLibertine-30" x="139.453125"/>
+       <use xlink:href="#LinLibertine-30" x="185.9375"/>
+       <use xlink:href="#LinLibertine-30" x="232.421875"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m9ade7dbe6a" x="289.576287" y="76.88481" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <!-- 200000 -->
+      <g transform="translate(243.529412 81.772779) scale(0.14 -0.14)">
+       <use xlink:href="#LinLibertine-32"/>
+       <use xlink:href="#LinLibertine-30" x="46.484375"/>
+       <use xlink:href="#LinLibertine-30" x="92.96875"/>
+       <use xlink:href="#LinLibertine-30" x="139.453125"/>
+       <use xlink:href="#LinLibertine-30" x="185.9375"/>
+       <use xlink:href="#LinLibertine-30" x="232.421875"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m9ade7dbe6a" x="289.576287" y="34.433232" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <!-- 250000 -->
+      <g transform="translate(243.529412 39.3212) scale(0.14 -0.14)">
+       <use xlink:href="#LinLibertine-32"/>
+       <use xlink:href="#LinLibertine-35" x="46.484375"/>
+       <use xlink:href="#LinLibertine-30" x="92.96875"/>
+       <use xlink:href="#LinLibertine-30" x="139.453125"/>
+       <use xlink:href="#LinLibertine-30" x="185.9375"/>
+       <use xlink:href="#LinLibertine-30" x="232.421875"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="patch_14">
+    <path d="M 289.576287 246.691125 
+L 289.576287 24.931125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 486.517463 246.691125 
+L 486.517463 24.931125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 289.576287 246.691125 
+L 486.517463 246.691125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 289.576287 24.931125 
+L 486.517463 24.931125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_19">
+    <!-- Government -->
+    <g transform="translate(344.788187 18.931125) scale(0.168 -0.168)">
+     <defs>
+      <path id="LinLibertine-47" d="M 2413 4213 
+Q 2853 4213 3261 4067 
+Q 3669 3922 3809 3922 
+Q 3866 3319 3950 2938 
+L 3731 2900 
+Q 3584 3394 3270 3684 
+Q 2956 3975 2322 3975 
+Q 1663 3975 1225 3450 
+Q 788 2925 788 2094 
+Q 788 1769 903 1434 
+Q 1019 1100 1230 812 
+Q 1441 525 1780 345 
+Q 2119 166 2528 166 
+Q 3131 166 3456 475 
+L 3456 1428 
+Q 3456 1606 3343 1657 
+Q 3231 1709 2931 1734 
+Q 2906 1766 2906 1848 
+Q 2906 1931 2931 1966 
+Q 3534 1953 3725 1953 
+Q 3909 1953 4294 1966 
+Q 4325 1934 4325 1850 
+Q 4325 1766 4294 1734 
+Q 4141 1722 4070 1655 
+Q 4000 1588 4000 1428 
+L 4000 709 
+Q 4000 613 4103 531 
+Q 3406 -63 2381 -63 
+Q 1434 -63 820 528 
+Q 206 1119 206 1966 
+Q 206 2644 531 3166 
+Q 856 3688 1353 3950 
+Q 1850 4213 2413 4213 
+z
+" transform="scale(0.015625)"/>
+      <path id="LinLibertine-6e" d="M 1178 2291 
+Q 1647 2809 2228 2809 
+Q 2594 2809 2759 2591 
+Q 2931 2359 2931 1734 
+L 2931 781 
+Q 2931 403 3004 314 
+Q 3078 225 3359 197 
+Q 3384 172 3384 95 
+Q 3384 19 3359 -13 
+Q 2809 0 2681 0 
+Q 2566 0 2028 -13 
+Q 2003 13 2003 89 
+Q 2003 166 2028 197 
+Q 2291 222 2358 312 
+Q 2425 403 2425 781 
+L 2425 1753 
+Q 2425 2094 2350 2247 
+Q 2228 2478 2009 2478 
+Q 1619 2478 1228 2100 
+Q 1119 1978 1119 1831 
+L 1119 781 
+Q 1119 403 1183 314 
+Q 1247 225 1503 197 
+Q 1534 166 1536 89 
+Q 1538 13 1503 -13 
+Q 966 0 872 0 
+Q 694 0 166 -13 
+Q 141 13 141 89 
+Q 141 166 166 197 
+Q 466 222 541 309 
+Q 616 397 616 781 
+L 616 2028 
+Q 616 2297 542 2367 
+Q 469 2438 197 2463 
+Q 159 2572 184 2644 
+Q 684 2706 991 2828 
+Q 1041 2828 1069 2778 
+Q 1119 2663 1119 2291 
+Q 1122 2213 1178 2291 
+z
+" transform="scale(0.015625)"/>
+      <path id="LinLibertine-6d" d="M 1106 2291 
+Q 1106 2213 1150 2275 
+Q 1159 2284 1166 2291 
+Q 1659 2809 2138 2809 
+Q 2381 2809 2556 2676 
+Q 2731 2544 2778 2341 
+Q 2794 2278 2847 2338 
+Q 3006 2506 3197 2615 
+Q 3388 2725 3559 2767 
+Q 3731 2809 3903 2809 
+Q 4294 2809 4428 2546 
+Q 4563 2284 4563 1791 
+L 4563 781 
+Q 4563 397 4630 308 
+Q 4697 219 4972 197 
+Q 4997 172 4997 95 
+Q 4997 19 4972 -13 
+Q 4422 0 4313 0 
+Q 4197 0 3659 -13 
+Q 3634 19 3634 95 
+Q 3634 172 3659 197 
+Q 3922 216 3989 309 
+Q 4056 403 4056 781 
+L 4056 1906 
+Q 4056 2213 3961 2345 
+Q 3866 2478 3675 2478 
+Q 3216 2478 2828 2053 
+Q 2834 1975 2834 1797 
+L 2834 781 
+Q 2834 397 2898 308 
+Q 2963 219 3213 197 
+Q 3238 172 3238 92 
+Q 3238 13 3213 -13 
+Q 2663 0 2584 0 
+Q 2469 0 1931 -13 
+Q 1906 13 1906 89 
+Q 1906 166 1931 197 
+Q 2200 216 2264 306 
+Q 2328 397 2328 781 
+L 2328 1894 
+Q 2328 2475 1906 2478 
+Q 1600 2478 1216 2100 
+Q 1106 1984 1106 1831 
+L 1106 781 
+Q 1106 513 1139 400 
+Q 1172 288 1240 252 
+Q 1309 216 1491 197 
+Q 1519 169 1519 92 
+Q 1519 16 1491 -13 
+Q 953 0 856 0 
+Q 691 0 166 -13 
+Q 141 13 141 89 
+Q 141 166 166 197 
+Q 447 216 525 309 
+Q 603 403 603 781 
+L 603 2028 
+Q 603 2297 528 2367 
+Q 453 2438 184 2463 
+Q 147 2572 172 2644 
+Q 672 2706 978 2828 
+Q 1028 2828 1056 2778 
+Q 1106 2663 1106 2291 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#LinLibertine-47"/>
+     <use xlink:href="#LinLibertine-6f" x="69.482422"/>
+     <use xlink:href="#LinLibertine-76" x="119.873047"/>
+     <use xlink:href="#LinLibertine-65" x="169.53125"/>
+     <use xlink:href="#LinLibertine-72" x="214.208984"/>
+     <use xlink:href="#LinLibertine-6e" x="251.367188"/>
+     <use xlink:href="#LinLibertine-6d" x="305.566406"/>
+     <use xlink:href="#LinLibertine-65" x="384.521484"/>
+     <use xlink:href="#LinLibertine-6e" x="429.199219"/>
+     <use xlink:href="#LinLibertine-74" x="483.398438"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_18">
+    <path d="M 525.905699 246.691125 
+L 722.846875 246.691125 
+L 722.846875 24.931125 
+L 525.905699 24.931125 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 534.85757 246.691125 
+L 586.011123 246.691125 
+L 586.011123 35.491125 
+L 534.85757 35.491125 
+z
+" clip-path="url(#p28a0dcb815)" style="fill: #ff0000"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 598.799511 246.691125 
+L 649.953063 246.691125 
+L 649.953063 105.551339 
+L 598.799511 105.551339 
+z
+" clip-path="url(#p28a0dcb815)" style="fill: #999999"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 662.741451 246.691125 
+L 713.895003 246.691125 
+L 713.895003 208.184308 
+L 662.741451 208.184308 
+z
+" clip-path="url(#p28a0dcb815)" style="fill: #006600"/>
+   </g>
+   <g id="matplotlib.axis_5">
+    <g id="xtick_7">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m253173219e" x="560.434346" y="246.691125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <!-- Negative -->
+      <g transform="translate(535.009034 263.412375) scale(0.14 -0.14)">
+       <use xlink:href="#LinLibertine-4e"/>
+       <use xlink:href="#LinLibertine-65" x="69.873047"/>
+       <use xlink:href="#LinLibertine-67" x="114.550781"/>
+       <use xlink:href="#LinLibertine-61" x="164.550781"/>
+       <use xlink:href="#LinLibertine-74" x="210.205078"/>
+       <use xlink:href="#LinLibertine-69" x="241.796875"/>
+       <use xlink:href="#LinLibertine-76" x="268.896484"/>
+       <use xlink:href="#LinLibertine-65" x="318.554688"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#m253173219e" x="624.376287" y="246.691125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <!-- Neutral -->
+      <g transform="translate(602.787849 263.467062) scale(0.14 -0.14)">
+       <use xlink:href="#LinLibertine-4e"/>
+       <use xlink:href="#LinLibertine-65" x="69.873047"/>
+       <use xlink:href="#LinLibertine-75" x="114.550781"/>
+       <use xlink:href="#LinLibertine-74" x="167.626953"/>
+       <use xlink:href="#LinLibertine-72" x="199.21875"/>
+       <use xlink:href="#LinLibertine-61" x="236.376953"/>
+       <use xlink:href="#LinLibertine-6c" x="282.03125"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m253173219e" x="688.318227" y="246.691125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <!-- Positive -->
+      <g transform="translate(665.739946 263.467062) scale(0.14 -0.14)">
+       <use xlink:href="#LinLibertine-50"/>
+       <use xlink:href="#LinLibertine-6f" x="53.076172"/>
+       <use xlink:href="#LinLibertine-73" x="103.466797"/>
+       <use xlink:href="#LinLibertine-69" x="142.431641"/>
+       <use xlink:href="#LinLibertine-74" x="169.53125"/>
+       <use xlink:href="#LinLibertine-69" x="201.123047"/>
+       <use xlink:href="#LinLibertine-76" x="228.222656"/>
+       <use xlink:href="#LinLibertine-65" x="277.880859"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_6">
+    <g id="ytick_12">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#m9ade7dbe6a" x="525.905699" y="246.691125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <!-- 0 -->
+      <g transform="translate(512.397886 251.579094) scale(0.14 -0.14)">
+       <use xlink:href="#LinLibertine-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m9ade7dbe6a" x="525.905699" y="207.784347" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <!-- 25000 -->
+      <g transform="translate(486.366636 212.672315) scale(0.14 -0.14)">
+       <use xlink:href="#LinLibertine-32"/>
+       <use xlink:href="#LinLibertine-35" x="46.484375"/>
+       <use xlink:href="#LinLibertine-30" x="92.96875"/>
+       <use xlink:href="#LinLibertine-30" x="139.453125"/>
+       <use xlink:href="#LinLibertine-30" x="185.9375"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_23">
+      <g>
+       <use xlink:href="#m9ade7dbe6a" x="525.905699" y="168.877568" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_25">
+      <!-- 50000 -->
+      <g transform="translate(486.366636 173.765537) scale(0.14 -0.14)">
+       <use xlink:href="#LinLibertine-35"/>
+       <use xlink:href="#LinLibertine-30" x="46.484375"/>
+       <use xlink:href="#LinLibertine-30" x="92.96875"/>
+       <use xlink:href="#LinLibertine-30" x="139.453125"/>
+       <use xlink:href="#LinLibertine-30" x="185.9375"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#m9ade7dbe6a" x="525.905699" y="129.97079" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <!-- 75000 -->
+      <g transform="translate(486.366636 134.858758) scale(0.14 -0.14)">
+       <defs>
+        <path id="LinLibertine-37" d="M 1088 3425 
+Q 966 3425 880 3395 
+Q 794 3366 694 3237 
+Q 594 3109 531 2869 
+Q 434 2856 325 2888 
+Q 447 3688 453 3909 
+Q 453 3928 481 3928 
+Q 506 3922 589 3881 
+Q 672 3841 800 3841 
+L 2119 3841 
+Q 2375 3841 2613 3909 
+L 2713 3834 
+Q 2022 2144 1281 -63 
+L 844 -84 
+L 794 -38 
+Q 1269 1019 2234 3425 
+L 1088 3425 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#LinLibertine-37"/>
+       <use xlink:href="#LinLibertine-35" x="46.484375"/>
+       <use xlink:href="#LinLibertine-30" x="92.96875"/>
+       <use xlink:href="#LinLibertine-30" x="139.453125"/>
+       <use xlink:href="#LinLibertine-30" x="185.9375"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="line2d_25">
+      <g>
+       <use xlink:href="#m9ade7dbe6a" x="525.905699" y="91.064011" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <!-- 100000 -->
+      <g transform="translate(479.858824 95.95198) scale(0.14 -0.14)">
+       <use xlink:href="#LinLibertine-31"/>
+       <use xlink:href="#LinLibertine-30" x="46.484375"/>
+       <use xlink:href="#LinLibertine-30" x="92.96875"/>
+       <use xlink:href="#LinLibertine-30" x="139.453125"/>
+       <use xlink:href="#LinLibertine-30" x="185.9375"/>
+       <use xlink:href="#LinLibertine-30" x="232.421875"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#m9ade7dbe6a" x="525.905699" y="52.157233" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_28">
+      <!-- 125000 -->
+      <g transform="translate(479.858824 57.045201) scale(0.14 -0.14)">
+       <use xlink:href="#LinLibertine-31"/>
+       <use xlink:href="#LinLibertine-32" x="46.484375"/>
+       <use xlink:href="#LinLibertine-35" x="92.96875"/>
+       <use xlink:href="#LinLibertine-30" x="139.453125"/>
+       <use xlink:href="#LinLibertine-30" x="185.9375"/>
+       <use xlink:href="#LinLibertine-30" x="232.421875"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="patch_22">
+    <path d="M 525.905699 246.691125 
+L 525.905699 24.931125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 722.846875 246.691125 
+L 722.846875 24.931125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 525.905699 246.691125 
+L 722.846875 246.691125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 525.905699 24.931125 
+L 722.846875 24.931125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_29">
+    <!-- Opposition -->
+    <g transform="translate(586.271787 18.931125) scale(0.168 -0.168)">
+     <defs>
+      <path id="LinLibertine-70" d="M 1119 2119 
+Q 1016 1991 1019 1838 
+L 1019 672 
+Q 1019 553 1031 492 
+Q 1044 431 1072 392 
+Q 1100 353 1172 288 
+Q 1250 219 1383 186 
+Q 1516 153 1625 153 
+Q 1881 153 2067 259 
+Q 2253 366 2348 547 
+Q 2444 728 2486 920 
+Q 2528 1113 2528 1331 
+Q 2528 1856 2308 2186 
+Q 2088 2516 1766 2516 
+Q 1631 2516 1439 2397 
+Q 1247 2278 1119 2119 
+z
+M 1019 2356 
+Q 1019 2325 1037 2317 
+Q 1056 2309 1069 2328 
+Q 1478 2809 1947 2809 
+Q 2428 2809 2753 2418 
+Q 3078 2028 3078 1503 
+Q 3078 753 2606 294 
+Q 2228 -66 1663 -63 
+Q 1350 -63 1106 34 
+Q 1056 59 1037 53 
+Q 1019 47 1019 -13 
+L 1019 -703 
+Q 1019 -1088 1105 -1178 
+Q 1191 -1269 1544 -1288 
+Q 1575 -1319 1575 -1395 
+Q 1575 -1472 1544 -1497 
+Q 994 -1484 769 -1484 
+Q 591 -1484 50 -1497 
+Q 25 -1472 25 -1395 
+Q 25 -1319 50 -1288 
+Q 350 -1275 431 -1181 
+Q 513 -1088 513 -703 
+L 513 2028 
+Q 513 2297 439 2367 
+Q 366 2438 97 2463 
+Q 59 2572 84 2644 
+Q 584 2706 891 2828 
+Q 941 2828 966 2778 
+Q 1019 2663 1019 2356 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#LinLibertine-4f"/>
+     <use xlink:href="#LinLibertine-70" x="70.166016"/>
+     <use xlink:href="#LinLibertine-70" x="122.021484"/>
+     <use xlink:href="#LinLibertine-6f" x="173.876953"/>
+     <use xlink:href="#LinLibertine-73" x="224.267578"/>
+     <use xlink:href="#LinLibertine-69" x="263.232422"/>
+     <use xlink:href="#LinLibertine-74" x="290.332031"/>
+     <use xlink:href="#LinLibertine-69" x="321.923828"/>
+     <use xlink:href="#LinLibertine-6f" x="349.023438"/>
+     <use xlink:href="#LinLibertine-6e" x="399.414062"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pdf01b553d4">
+   <rect x="53.246875" y="24.931125" width="196.941176" height="221.76"/>
+  </clipPath>
+  <clipPath id="pbadd94b81e">
+   <rect x="289.576287" y="24.931125" width="196.941176" height="221.76"/>
+  </clipPath>
+  <clipPath id="p28a0dcb815">
+   <rect x="525.905699" y="24.931125" width="196.941176" height="221.76"/>
+  </clipPath>
+ </defs>
+</svg>
