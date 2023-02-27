@@ -23,7 +23,7 @@ def setup_font(plt):
     return plt
 
 
-def plot_overall_sentiment(data, filename):
+def plot_overall_sentiment(data, filename, len_dataset):
     import matplotlib.pyplot as plt
 
     # Setup Font
@@ -39,6 +39,12 @@ def plot_overall_sentiment(data, filename):
     # Add the x and y labels
     plt.xlabel('Sentiment')
     plt.ylabel('# Tweets')
+    
+    plt.ylim(0, 420000)
+    
+    # Add labels to each bar
+    for i in range(len(data)):
+        plt.text(x_labels[i], data[i], "{:.1%}".format(data[i] / len_dataset), ha='center', va='bottom', fontsize=14)
 
     # Save as svg, png and pdf
     for f_type in [".svg", ".png", ".pdf"]:
