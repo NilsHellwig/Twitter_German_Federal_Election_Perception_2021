@@ -17,3 +17,4 @@ reportlab
 svglib
 statsmodels
 krippendorff
+svg2rlg

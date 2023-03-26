@@ -1,105 +1,105 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700">
-<style>@font-face{font-family:'Manrope3';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>@font-face{font-family:'Manrope3';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,d09GRk9UVE8AAA0sAAwAAAAAE9QAAwBBAAAAAAAAAAAAAAAAAAAAAAAAAABDRkYgAAADLAAABywAAAm8/QainkdERUYAAApYAAAALwAAADoAoACPR1BPUwAACogAAAFlAAAEAHGJfI9HU1VCAAAL8AAAAMkAAAFoBZUE209TLzIAAAF8AAAAUAAAAGBgOIZhY21hcAAAAqwAAABsAAAAjAR7A1ZoZWFkAAABHAAAADYAAAA2G4M5+WhoZWEAAAFUAAAAHwAAACQHSAKHaG10eAAADLwAAABuAAAAiEeyBgNtYXhwAAABdAAAAAYAAAAGACJQAG5hbWUAAAHMAAAA3wAAAa4fnDlwcG9zdAAAAxgAAAATAAAAIP+4ADIAAQAAAAMAQUoXrDZfDzz1AAMDwAAAAADY2kd4AAAAAOBFr6j/9v8BA1QC3wAAAAMAAgAAAAAAAHicY2BkYGD+8+8KkFzy/+v/N8whDEARFKAEAMMhB9MAAABQAAAiAAB4nGNgYQpknMDAwsDAVMDkwMDA4AGhGQMYjBhdgHwGVjYGGGBmQALBHr6eDAcYFBj+MP/5d4VRh/kPo44CA8N0kByTDNMFIKXAwAIA8h8MdXichZDNTsJAFIW/SpGwITzCvEAb+SliXLKBBYnRhBB2/LU1gDWlGngXH8WH43SYBXZjmjv97pxzz0wLNFhQw/ObwFh1ZY+2uivf0WLuuMaA2LGP4cdxnRO/ju8xXp8RGZ+cyXknIaWQu8sDHYYEjp60N5W+k77Ue6/+zXKu+mCjdWopt2lberxqTfiSt3T1CJVUZj1rciz3RFSdCSpTVd1U9Jm6nKNulMln/pzyonOM7W53UzkL1tb/Lb1jtVDfOpR6UOpOmaUn1u5eySv9g5BINaDPo57ov3tfAErsPCoAeJxNjUEOgkAQBGvXRZETQQMRzWZfwX84wol4Mj7Hj3HhGSRDy0Un6emkJtMNeOAgXbXd7oGXvKIU8SQGJpE3MwurmW6JnpHnH9Onfb6yzqI99qRSivzGKS+QceREzpmCi9pqGm603DdTuRXHeJxjYGYAg/9bGYwYsAAALMIB6gB4nLVUC1AV5xXeBXb/ReIlUpfUu+ldNDNWQBTCOygCKtVABETAimgvXLgP3g9jhSoPiTy8IJGHTIAAl9eFyCOQSY2ihkelkbFV5NFIaUTspIG2Op1Mzt75L53uJdJ2GptOOu3Mzp6zZ7/z/+c7851DEhZmBEmS696Qp2SkpsW7Oh2MV55IkmeYgm4CTwh2pLDRTPi+hayJtLDNPX9+1b6A8nGl4Q+GTAr8rd/+AUFYfmgDqesIRJJr1tqwL/uFqrclpcYlHToYlHA8QXyOJ2Udz3J2dt3m7OyyOzXtVIZaqcqye9XZxctJfHnbvaFOVMnVSXbhKnmGPEUhX63IbrUigiQCCOI2QexGZBFBBNFEOElUE0QESTwkiCgzIpogi0kihSBLTVhik8iMsCBUxBy5mUwk+83MzVzM3jX7kzlh/j3zPeYq83TzRQtvi2yLYYsnVAjVTT2lfek6+ir9BMnQDnQePWJsmQqmEkiJn1BoC/Ooq7i9sF22kB44+AqHLb0itqXx905Q95tGO6a5R9d/7FjO259xO+t3gvHMVETukW6eCv7L0kTXxEcyN5QCG9mQxGCNL7f3WP8vB/s6R+r48YbxioVqRlUSejJWJvGDbQY16zM7i8Dc1mQmltXs//tSBdwVbrJ+YSlHFDwU+aNlxR00jcL7x9SfcuC4AC+CB7i7gjXewucZS1mMIj4HG7AZ/j1QwAw5YQm2Dt+KKV7iK9QLDuznye6jmOSwhzNG2LeExz5lj/Ea8OS+enDjjwN8QBMVlBqlCuAwEzoPbCkPNtqRx2DFTfwi/vVWXhIvRBgULC5G1xVhej8O27tia+yOPRbwi7D101vdw/28/x2DAuHc5e0spsIXwRokQ1+AJVgMu2AbbBOxHSNeEgNWUMYKO2nYX+EF67Avh90cMYN3Ye8lsRqPLxc+XvyQD2yjAtWhql0cNg+ZgTVv8bAXzrJAaG/uq8FmDH5C13w5ch/IUkaC9dBtcGfHPwmk5ceLVBo+WVMUq5UzcU7BXxjTJ4V02HIbb7mGbrW3jYo9FY4KfWwAGlaEXPb5FxKTI52D/Xw4wjbao69jSy4stGUsmd+XQHle/Uw1x8GG2RF44V2+okPb0SUV9CJTY84zpvw/U5V9zVUmSRAihYvssd5D1ZFF0SWHs5UJ+fkFeYV5DFTtX1ZMQRfq0LZV6GQX++ovt+lami9f6tEOlPXm699khuKq9npKce0UvIO0S/lLfiOMZNaQxnpN/g4F4EOssW9S6EPPCxnXPTHEsN5Tcwg7/ZVmdU0VDfV8fYNWNywVHk0Z/4yCy4+plLKkpJ8UJ3IxE7QEc/dsp6CWhgZcS31F437Qwdugo+xp/JYYEYL9xXtsDZmTy5lIAkkGjVDDdmiOXYrjDoSlHlHzBacLGs7Un6zb8HUwLCz9qJq/td/YNwVPUc+FzpZOmb6lt/59Tq/P+2kT/4G6XBkiLcVz1CQ8pOtMiFYRoeut7+f0Hf9A4Ln7SAsPqQclQ6GDz+sl86yZMytXfcdeKmDwZyy4LQEDvuCzFSxFFbxqLw7GTrxjUdShOw+B0M/i9aGu2ApbHngIL4HN6AKshTVjnth2dTh9DmjCFfzU/uWmKRhFR/pHkydXR5N/Npuyb59NrINAoYw9lXM6O/8UM7/CpQg9ujg5/HPZQNf18oF85i6KvvSjPLmSkWwUTgqb2MU8l0+whNtkf3jzzrH46Tf5D3J787sLmLGcKzkHpSFhmt3+e/QTp2R+uRQmm5diwJKDtQsjQM4Hv+/QykfXairTKplDdcnN/dLBoZ6ZEtlEyXjKpQBGknjPdkaoovXl+kqd7HrD1eab3PSNGN8dYfGBZ/l9COiS30S5SLcGRTlpMi5Upcl2o7z2zuIeDn74YB42gIX7naAaflTXOfprKaz1vI+ttgcqdqTICjKLUjRSCc6GaCGdBe/b2Bsc/LEDRsGAcDcdWSJvjJfpYrtPXitkes59pO2pYsZR6jlNaWpZanl6bV4rc7qlvOOKdEUFfSzuQqml6eeyZIUJ2Zr0rMwTmlxVaVyJsjqliYkYKLj3mRRq/fE7qNSx2nE6/IpyOP/jC9fKbtT39jHV1VU1F2uYXXdMo5IAeaat7jNLQ/jsitVt+p8djq0FF1OtrsZQ7CqEUn40HDb2UTOiEfooCbxs8DD9Xm/0xKzgSe2jV9z1outPg7eIHKeBEwLgJWMA9SsxYkp6RagSc1xp7IaV2B2UlCsNsbhR/GijHosYSAYvnCy6WAltlGSzoLnL4t/S8FQ4QtUbQwNhGuGnxmgqR4hEkveE+efuTZz7bFl+y0rN/eZmhSFDoyGTxVG4/d/mf4ej20VjEBdOoZD4n079e+pqDpgJvSahvXYbvwYOAaLQGv87vcF70Ii7UWSxvCle1hzbY8J3i/jeVXxKWZqIz21lzrSUmfRp3C2B0+sNVuzfABrunP54nGNgZGBg4GGAACYGdgYWMGQHs/iAkIVBEAhZGMSAkIVBlkEBqEoRCFkAFbsBMAB4nK1TPU/DQAx9d5c2SUmTgMpnhQobAz+AGSEmxo4sgJioOlQd4J8yMzFEQhVSl6oKz25oA23Igp+S89l5Pjt6BwOghUvcwl1d3/TReXgZDXAyuBsPcQ6PWeQ55KuVb0q+hXt6HA3RKb+ZNPp4zAdwiHCGd+4jZRrsaBXH7FE+QTfP6PU1d49n+tuoMbLqzaBBxNjFPg6kU90bRmK+JWYUp9giUjQVwgISQixlzxGjKdrwubcICcdeW1rF6KQBrE2lf3thx/w2ZYeftTPM8wmRVU2YT3XN6M0q/kGyZPcU/26LHjbvNDKvZH4U60xm+PbL04r/c/py5PdaccofWa228c8V+be186flGZW/prMVQ/mvFcWtKkkU3aRePKqnTZUkvBsh9ogEhzimTuQWdJkxyhFdNYoKTT4+ERAh1QZqVCxipZh8p9rrkWWZ9RSxnuIIKEf07C25C0X7qvBIb0H8BU0LaLkAAAB4nJWPPQvCMBRFb+ynVYuDdFNDBwdxcHAWih8IdZBSHIpL7aBCqCAu/g3/cH19hjpLyMkhecm7gQDg4S1sGOvtPsWgeD0UpMqfJWYw6RRVhbrq5wIhrCjbSExXSSqxiKNMYplG5Ls0iSUSXdnitQUDrjYTbW0W9f2ajY42B1301O2S4/AH74XCkXlinplXZkmhBfWqaTINJpiCWSfwmxHqXZemzTWCkprN3pzqPUz4T30EGJE5dG/I+cdEn3tJsoBfdxB8AG6ROE8AAAB4nGN6wpDCpMOgAcYBDG5MWkA6EIg9GTQYkxnkgGIaTEEMbgwvGQLA+Nf/r4wfIHxmf6B6oBxYDVAvYyaQzQtkhwPZExm4gHI2IMz4h0GE6T8Q8wPFhID0dAY55iVAswuA+CkDF8MJBgYAy54Y6wAA")format("woff");}</style>
 <style>text{font-family:'Manrope3';font-weight:normal;font-style:normal;}</style>
 <rect width="100%" height="100%" style="fill:white"></rect>
-<text transform="translate(182,387)" font-size="409" style="fill:rgb(47, 180, 124)">ja</text>
-<text transform="translate(834,697) rotate(-90)" font-size="409" style="fill:rgb(155, 217, 60)">afd</text>
-<text transform="translate(1,625)" font-size="106" style="fill:rgb(124, 210, 80)">alice weidel</text>
-<text transform="translate(283,494)" font-size="103" style="fill:rgb(82, 197, 105)">schon</text>
-<text transform="translate(13,307)" font-size="103" style="fill:rgb(57, 85, 140)">mal</text>
-<text transform="translate(32,135)" font-size="95" style="fill:rgb(189, 223, 38)">gibt</text>
-<text transform="translate(904,659) rotate(-90)" font-size="82" style="fill:rgb(168, 219, 52)">tino chrupalla</text>
-<text transform="translate(273,60)" font-size="76" style="fill:rgb(88, 199, 101)">karl lauterbach</text>
-<text transform="translate(107,518) rotate(-90)" font-size="73" style="fill:rgb(43, 117, 142)">wäre</text>
-<text transform="translate(257,103)" font-size="72" style="fill:rgb(44, 177, 126)">wer</text>
-<text transform="translate(836,68)" font-size="70" style="fill:rgb(42, 120, 142)">geht</text>
-<text transform="translate(640,349)" font-size="69" style="fill:rgb(31, 160, 136)">immer</text>
-<text transform="translate(12,213)" font-size="68" style="fill:rgb(71, 17, 100)">bitte</text>
-<text transform="translate(949,668) rotate(-90)" font-size="67" style="fill:rgb(67, 62, 133)">warum</text>
-<text transform="translate(114,676)" font-size="64" style="fill:rgb(119, 209, 83)">deutschland</text>
-<text transform="translate(952,265) rotate(-90)" font-size="62" style="fill:rgb(44, 114, 142)">genau</text>
-<text transform="translate(111,544)" font-size="42" style="fill:rgb(69, 56, 130)">beatrix vstorch</text>
-<text transform="translate(644,465)" font-size="41" style="fill:rgb(34, 168, 132)">menschen</text>
-<text transform="translate(673,208)" font-size="41" style="fill:rgb(35, 136, 142)">recht</text>
-<text transform="translate(126,407)" font-size="40" style="fill:rgb(32, 146, 140)">nein</text>
-<text transform="translate(559,311) rotate(-90)" font-size="40" style="fill:rgb(47, 107, 142)">eigentlich</text>
-<text transform="translate(937,401) rotate(-90)" font-size="40" style="fill:rgb(192, 223, 37)">wohl</text>
-<text transform="translate(19,36)" font-size="40" style="fill:rgb(78, 195, 107)">frage</text>
-<text transform="translate(416,526)" font-size="39" style="fill:rgb(71, 13, 96)">vielleicht</text>
-<text transform="translate(393,121)" font-size="39" style="fill:rgb(72, 20, 103)">kommt</text>
-<text transform="translate(133,31)" font-size="39" style="fill:rgb(62, 74, 137)">richtig</text>
-<text transform="translate(2,664)" font-size="39" style="fill:rgb(48, 106, 142)">partei</text>
-<text transform="translate(124,345)" font-size="39" style="fill:rgb(234, 229, 26)">gut</text>
-<text transform="translate(508,683)" font-size="39" style="fill:rgb(234, 229, 26)">wurde</text>
-<text transform="translate(296,135)" font-size="39" style="fill:rgb(45, 112, 142)">tun</text>
-<text transform="translate(983,693) rotate(-90)" font-size="39" style="fill:rgb(205, 225, 29)">afd muenster</text>
-<text transform="translate(963,390) rotate(-90)" font-size="39" style="fill:rgb(32, 147, 140)">sagen</text>
-<text transform="translate(286,322) rotate(-90)" font-size="39" style="fill:rgb(64, 69, 136)">müssen</text>
-<text transform="translate(666,160)" font-size="39" style="fill:rgb(70, 8, 92)">noafd</text>
-<text transform="translate(32,525) rotate(-90)" font-size="39" style="fill:rgb(66, 63, 133)">natürlich</text>
-<text transform="translate(423,75)" font-size="16" style="fill:rgb(229, 228, 25)">afdbeobachtungjetzt afdbeobachtungjetzt</text>
-<text transform="translate(416,230)" font-size="16" style="fill:rgb(70, 11, 94)">steht</text>
-<text transform="translate(746,233)" font-size="16" style="fill:rgb(94, 201, 98)">hast</text>
-<text transform="translate(642,424)" font-size="16" style="fill:rgb(46, 109, 142)">corona</text>
-<text transform="translate(424,409)" font-size="16" style="fill:rgb(59, 81, 139)">joerg meuthen</text>
-<text transform="translate(307,157)" font-size="16" style="fill:rgb(34, 141, 141)">viele</text>
-<text transform="translate(4,550)" font-size="16" style="fill:rgb(99, 203, 95)">wissen</text>
-<text transform="translate(19,340)" font-size="16" style="fill:rgb(149, 216, 64)">sicher</text>
-<text transform="translate(533,640)" font-size="16" style="fill:rgb(61, 78, 138)">hätte</text>
-<text transform="translate(309,419)" font-size="16" style="fill:rgb(88, 199, 101)">sagt</text>
-<text transform="translate(289,689)" font-size="16" style="fill:rgb(39, 127, 142)">einfach</text>
-<text transform="translate(660,616)" font-size="16" style="fill:rgb(202, 225, 31)">ganz</text>
-<text transform="translate(585,326) rotate(-90)" font-size="16" style="fill:rgb(38, 129, 142)">macht</text>
-<text transform="translate(116,497)" font-size="16" style="fill:rgb(37, 132, 142)">stimmt</text>
-<text transform="translate(380,301)" font-size="16" style="fill:rgb(31, 158, 137)">besser</text>
-<text transform="translate(700,365)" font-size="16" style="fill:rgb(72, 29, 111)">stbrandner</text>
-<text transform="translate(4,68)" font-size="16" style="fill:rgb(53, 95, 141)">gar</text>
-<text transform="translate(122,422)" font-size="16" style="fill:rgb(119, 209, 83)">meinung</text>
-<text transform="translate(933,411)" font-size="16" style="fill:rgb(70, 8, 92)">land</text>
-<text transform="translate(392,327)" font-size="16" style="fill:rgb(63, 188, 115)">dafür</text>
-<text transform="translate(249,693)" font-size="16" style="fill:rgb(244, 230, 30)">ab</text>
-<text transform="translate(61,691)" font-size="16" style="fill:rgb(68, 191, 112)">kommen</text>
-<text transform="translate(352,222)" font-size="16" style="fill:rgb(50, 182, 122)">leben</text>
-<text transform="translate(276,397)" font-size="16" style="fill:rgb(62, 73, 137)">lassen</text>
-<text transform="translate(299,247)" font-size="16" style="fill:rgb(31, 153, 138)">gerade</text>
-<text transform="translate(669,238)" font-size="16" style="fill:rgb(71, 42, 122)">impfung</text>
-<text transform="translate(795,209) rotate(-90)" font-size="16" style="fill:rgb(62, 73, 137)">sollten</text>
-<text transform="translate(529,426)" font-size="16" style="fill:rgb(157, 217, 59)">klar</text>
-<text transform="translate(258,154)" font-size="16" style="fill:rgb(65, 66, 135)">darf</text>
-<text transform="translate(595,461)" font-size="16" style="fill:rgb(99, 203, 95)">erst</text>
-<text transform="translate(60,228)" font-size="16" style="fill:rgb(53, 183, 121)">grünen</text>
-<text transform="translate(122,443)" font-size="16" style="fill:rgb(251, 231, 35)">cdu</text>
-<text transform="translate(247,135)" font-size="16" style="fill:rgb(39, 127, 142)">welt</text>
-<text transform="translate(199,243) rotate(-90)" font-size="16" style="fill:rgb(55, 90, 140)">sehen</text>
-<text transform="translate(261,461)" font-size="16" style="fill:rgb(32, 146, 140)">na</text>
-<text transform="translate(137,468)" font-size="16" style="fill:rgb(46, 111, 142)">weiß</text>
-<text transform="translate(700,425)" font-size="16" style="fill:rgb(192, 223, 37)">zahlen</text>
-<text transform="translate(503,553)" font-size="16" style="fill:rgb(67, 61, 132)">wahl</text>
-<text transform="translate(818,691)" font-size="16" style="fill:rgb(39, 128, 142)">fckafd fckafd</text>
-<text transform="translate(784,294)" font-size="16" style="fill:rgb(31, 153, 138)">halt</text>
-<text transform="translate(824,129)" font-size="16" style="fill:rgb(69, 5, 89)">nie</text>
-<text transform="translate(585,283)" font-size="16" style="fill:rgb(62, 74, 137)">lesen</text>
-<text transform="translate(391,143)" font-size="16" style="fill:rgb(31, 158, 137)">tweet</text>
-<text transform="translate(165,55)" font-size="16" style="fill:rgb(194, 223, 35)">eher</text>
-<text transform="translate(775,598) rotate(-90)" font-size="16" style="fill:rgb(31, 161, 135)">eben</text>
-<text transform="translate(584,174) rotate(-90)" font-size="16" style="fill:rgb(96, 202, 96)">heißt</text>
-<text transform="translate(841,99)" font-size="16" style="fill:rgb(101, 203, 94)">sieht</text>
-<text transform="translate(380,238)" font-size="16" style="fill:rgb(35, 136, 142)">ne</text>
-<text transform="translate(859,15)" font-size="16" style="fill:rgb(63, 72, 137)">zeit</text>
-<text transform="translate(127,689)" font-size="16" style="fill:rgb(70, 50, 126)">gehen</text>
-<text transform="translate(423,689)" font-size="16" style="fill:rgb(61, 188, 116)">deutschen</text>
-<text transform="translate(39,389)" font-size="16" style="fill:rgb(94, 201, 98)">fall</text>
-<text transform="translate(625,686)" font-size="16" style="fill:rgb(181, 222, 43)">geimpft</text>
-<text transform="translate(754,421)" font-size="16" style="fill:rgb(39, 127, 142)">weniger</text>
-<text transform="translate(109,153)" font-size="16" style="fill:rgb(69, 55, 129)">bestimmt</text>
-<text transform="translate(856,499)" font-size="16" style="fill:rgb(253, 231, 37)">merkel</text>
-<text transform="translate(360,340)" font-size="16" style="fill:rgb(32, 164, 134)">gruenen</text>
-<text transform="translate(373,478) rotate(-90)" font-size="16" style="fill:rgb(72, 28, 110)">ach</text>
-<text transform="translate(448,147)" font-size="16" style="fill:rgb(226, 228, 24)">thema</text>
-<text transform="translate(19,691)" font-size="16" style="fill:rgb(92, 200, 99)">frau</text>
-<text transform="translate(257,355)" font-size="16" style="fill:rgb(139, 214, 70)">gerne</text>
-<text transform="translate(948,423)" font-size="16" style="fill:rgb(229, 228, 25)">beim</text>
-<text transform="translate(158,165)" font-size="16" style="fill:rgb(32, 146, 140)">wieso</text>
-<text transform="translate(645,174)" font-size="16" style="fill:rgb(37, 171, 130)">brandner</text>
-<text transform="translate(990,340) rotate(-90)" font-size="16" style="fill:rgb(208, 225, 28)">leute</text>
+<text transform="translate(581,399)" font-size="416" style="fill:rgb(36, 170, 131)">ja</text>
+<text transform="translate(344,695) rotate(-90)" font-size="416" style="fill:rgb(54, 92, 141)">afd</text>
+<text transform="translate(354,608)" font-size="115" style="fill:rgb(68, 191, 112)">alice weidel</text>
+<text transform="translate(665,104)" font-size="112" style="fill:rgb(64, 189, 114)">schon</text>
+<text transform="translate(373,322)" font-size="112" style="fill:rgb(34, 140, 141)">mal</text>
+<text transform="translate(409,102)" font-size="103" style="fill:rgb(86, 198, 103)">gibt</text>
+<text transform="translate(530,661)" font-size="66" style="fill:rgb(33, 143, 141)">tino chrupalla</text>
+<text transform="translate(140,450)" font-size="63" style="fill:rgb(31, 160, 136)">karl lauterbach</text>
+<text transform="translate(683,466)" font-size="61" style="fill:rgb(45, 112, 142)">wäre</text>
+<text transform="translate(462,365)" font-size="60" style="fill:rgb(63, 72, 137)">wer</text>
+<text transform="translate(455,192)" font-size="58" style="fill:rgb(53, 183, 121)">geht</text>
+<text transform="translate(151,328)" font-size="57" style="fill:rgb(216, 226, 25)">immer</text>
+<text transform="translate(148,51)" font-size="57" style="fill:rgb(71, 16, 99)">bitte</text>
+<text transform="translate(376,484)" font-size="56" style="fill:rgb(117, 208, 84)">warum</text>
+<text transform="translate(950,459) rotate(-90)" font-size="54" style="fill:rgb(42, 176, 127)">deutschland</text>
+<text transform="translate(60,582) rotate(-90)" font-size="52" style="fill:rgb(61, 77, 138)">genau</text>
+<text transform="translate(667,502)" font-size="45" style="fill:rgb(49, 103, 142)">beatrix vstorch</text>
+<text transform="translate(683,140)" font-size="44" style="fill:rgb(53, 183, 121)">menschen</text>
+<text transform="translate(297,41)" font-size="44" style="fill:rgb(35, 169, 131)">recht</text>
+<text transform="translate(365,647)" font-size="43" style="fill:rgb(253, 231, 37)">nein</text>
+<text transform="translate(386,248) rotate(-90)" font-size="43" style="fill:rgb(155, 217, 60)">eigentlich</text>
+<text transform="translate(356,359)" font-size="43" style="fill:rgb(64, 69, 136)">wohl</text>
+<text transform="translate(159,185)" font-size="43" style="fill:rgb(55, 90, 140)">frage</text>
+<text transform="translate(344,681)" font-size="42" style="fill:rgb(57, 85, 140)">vielleicht</text>
+<text transform="translate(6,45)" font-size="42" style="fill:rgb(42, 118, 142)">kommt</text>
+<text transform="translate(65,245) rotate(-90)" font-size="42" style="fill:rgb(34, 141, 141)">richtig</text>
+<text transform="translate(1,672)" font-size="42" style="fill:rgb(58, 84, 140)">partei</text>
+<text transform="translate(763,337)" font-size="42" style="fill:rgb(157, 217, 59)">gut</text>
+<text transform="translate(1,284)" font-size="42" style="fill:rgb(96, 202, 96)">wurde</text>
+<text transform="translate(781,233)" font-size="42" style="fill:rgb(60, 80, 139)">tun</text>
+<text transform="translate(689,415) rotate(-90)" font-size="42" style="fill:rgb(43, 116, 142)">afd muenster</text>
+<text transform="translate(588,327) rotate(-90)" font-size="42" style="fill:rgb(71, 47, 125)">sagen</text>
+<text transform="translate(983,321) rotate(-90)" font-size="42" style="fill:rgb(45, 112, 142)">müssen</text>
+<text transform="translate(387,241)" font-size="42" style="fill:rgb(127, 211, 78)">noafd</text>
+<text transform="translate(466,132)" font-size="36" style="fill:rgb(31, 154, 138)">natürlich</text>
+<text transform="translate(469,519)" font-size="16" style="fill:rgb(46, 111, 142)">afdbeobachtungjetzt afdbeobachtungjetzt</text>
+<text transform="translate(559,673)" font-size="16" style="fill:rgb(43, 117, 142)">steht</text>
+<text transform="translate(376,383)" font-size="16" style="fill:rgb(78, 195, 107)">hast</text>
+<text transform="translate(839,445)" font-size="16" style="fill:rgb(176, 221, 47)">corona</text>
+<text transform="translate(437,387)" font-size="16" style="fill:rgb(41, 122, 142)">joerg meuthen</text>
+<text transform="translate(319,275)" font-size="16" style="fill:rgb(70, 192, 111)">viele</text>
+<text transform="translate(274,60)" font-size="16" style="fill:rgb(72, 28, 110)">wissen</text>
+<text transform="translate(157,203)" font-size="16" style="fill:rgb(31, 161, 136)">sicher</text>
+<text transform="translate(26,629)" font-size="16" style="fill:rgb(46, 179, 124)">hätte</text>
+<text transform="translate(749,684)" font-size="16" style="fill:rgb(72, 38, 119)">sagt</text>
+<text transform="translate(829,413)" font-size="16" style="fill:rgb(31, 159, 136)">einfach</text>
+<text transform="translate(16,104) rotate(-90)" font-size="16" style="fill:rgb(31, 149, 139)">ganz</text>
+<text transform="translate(229,126)" font-size="16" style="fill:rgb(165, 219, 54)">macht</text>
+<text transform="translate(704,250)" font-size="16" style="fill:rgb(74, 193, 109)">stimmt</text>
+<text transform="translate(79,464)" font-size="16" style="fill:rgb(61, 188, 116)">besser</text>
+<text transform="translate(8,600)" font-size="16" style="fill:rgb(37, 171, 130)">stbrandner</text>
+<text transform="translate(349,473)" font-size="16" style="fill:rgb(72, 26, 108)">gar</text>
+<text transform="translate(351,514)" font-size="16" style="fill:rgb(72, 28, 110)">meinung</text>
+<text transform="translate(947,89)" font-size="16" style="fill:rgb(115, 208, 86)">land</text>
+<text transform="translate(323,292)" font-size="16" style="fill:rgb(39, 173, 129)">dafür</text>
+<text transform="translate(282,565)" font-size="16" style="fill:rgb(149, 216, 64)">ab</text>
+<text transform="translate(897,531)" font-size="16" style="fill:rgb(200, 224, 32)">kommen</text>
+<text transform="translate(609,682)" font-size="16" style="fill:rgb(94, 201, 98)">leben</text>
+<text transform="translate(37,62)" font-size="16" style="fill:rgb(31, 161, 135)">lassen</text>
+<text transform="translate(369,401)" font-size="16" style="fill:rgb(202, 225, 31)">gerade</text>
+<text transform="translate(191,233)" font-size="16" style="fill:rgb(127, 211, 78)">impfung</text>
+<text transform="translate(145,355)" font-size="16" style="fill:rgb(65, 68, 135)">sollten</text>
+<text transform="translate(291,605)" font-size="16" style="fill:rgb(72, 41, 121)">klar</text>
+<text transform="translate(510,221)" font-size="16" style="fill:rgb(72, 35, 116)">darf</text>
+<text transform="translate(17,161) rotate(-90)" font-size="16" style="fill:rgb(53, 94, 141)">erst</text>
+<text transform="translate(171,619) rotate(-90)" font-size="16" style="fill:rgb(68, 57, 131)">grünen</text>
+<text transform="translate(976,353) rotate(-90)" font-size="16" style="fill:rgb(38, 130, 142)">cdu</text>
+<text transform="translate(417,160)" font-size="16" style="fill:rgb(253, 231, 37)">welt</text>
+<text transform="translate(716,197) rotate(-90)" font-size="16" style="fill:rgb(132, 212, 75)">sehen</text>
+<text transform="translate(388,96)" font-size="16" style="fill:rgb(32, 146, 140)">na</text>
+<text transform="translate(631,605) rotate(-90)" font-size="16" style="fill:rgb(37, 132, 142)">weiß</text>
+<text transform="translate(929,119)" font-size="16" style="fill:rgb(72, 32, 113)">zahlen</text>
+<text transform="translate(84,339) rotate(-90)" font-size="16" style="fill:rgb(37, 131, 142)">wahl</text>
+<text transform="translate(868,20)" font-size="16" style="fill:rgb(31, 153, 138)">fckafd fckafd</text>
+<text transform="translate(349,320)" font-size="16" style="fill:rgb(70, 8, 92)">halt</text>
+<text transform="translate(839,296)" font-size="16" style="fill:rgb(61, 77, 138)">nie</text>
+<text transform="translate(625,536)" font-size="16" style="fill:rgb(52, 97, 141)">lesen</text>
+<text transform="translate(845,683)" font-size="16" style="fill:rgb(37, 132, 142)">tweet</text>
+<text transform="translate(98,60)" font-size="16" style="fill:rgb(103, 204, 92)">eher</text>
+<text transform="translate(194,691)" font-size="16" style="fill:rgb(189, 223, 38)">eben</text>
+<text transform="translate(147,554)" font-size="16" style="fill:rgb(66, 63, 133)">heißt</text>
+<text transform="translate(203,352)" font-size="16" style="fill:rgb(72, 23, 105)">sieht</text>
+<text transform="translate(103,490)" font-size="16" style="fill:rgb(70, 10, 93)">ne</text>
+<text transform="translate(809,14)" font-size="16" style="fill:rgb(96, 202, 96)">zeit</text>
+<text transform="translate(413,31)" font-size="16" style="fill:rgb(176, 221, 47)">gehen</text>
+<text transform="translate(23,413)" font-size="16" style="fill:rgb(39, 126, 142)">deutschen</text>
+<text transform="translate(254,539)" font-size="16" style="fill:rgb(162, 218, 55)">fall</text>
+<text transform="translate(630,25)" font-size="16" style="fill:rgb(184, 222, 41)">geimpft</text>
+<text transform="translate(203,464)" font-size="16" style="fill:rgb(192, 223, 37)">weniger</text>
+<text transform="translate(720,25)" font-size="16" style="fill:rgb(53, 95, 141)">bestimmt</text>
+<text transform="translate(469,499)" font-size="16" style="fill:rgb(65, 68, 135)">merkel</text>
+<text transform="translate(284,347)" font-size="16" style="fill:rgb(39, 127, 142)">gruenen</text>
+<text transform="translate(528,497)" font-size="16" style="fill:rgb(54, 93, 141)">ach</text>
+<text transform="translate(824,529)" font-size="16" style="fill:rgb(122, 209, 81)">thema</text>
+<text transform="translate(696,678)" font-size="16" style="fill:rgb(112, 207, 87)">frau</text>
+<text transform="translate(824,461)" font-size="16" style="fill:rgb(31, 159, 136)">gerne</text>
+<text transform="translate(618,51)" font-size="16" style="fill:rgb(45, 112, 142)">beim</text>
+<text transform="translate(260,200)" font-size="16" style="fill:rgb(61, 188, 116)">wieso</text>
+<text transform="translate(588,81)" font-size="16" style="fill:rgb(70, 7, 90)">brandner</text>
+<text transform="translate(173,665)" font-size="16" style="fill:rgb(74, 193, 109)">leute</text>
 </svg>
