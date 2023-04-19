@@ -232,6 +232,15 @@ def plot_sentiment_line_graph_for_each_month(df, filename):
             color=PARTY_COLORS[party],
         )
 
+    # Add plot for overall sentiment of all parties
+    ax.plot(
+        df.groupby("month")["sentiment_value"].mean().index,
+        df.groupby("month")["sentiment_value"].mean(),
+        label="Overall",
+        color=NEUTRAL_COLOR,
+        linestyle="--",
+    )
+
     # Set x-axis tick labels to month names
     plt.xticks(range(1, 13), [MONTH_NAMES[i] for i in range(1, 13)])
 
@@ -301,6 +310,15 @@ def plot_sentiment_line_graph_for_each_month_6_week(df, filename):
             label=party,
             color=PARTY_COLORS[party],
         )
+
+    # Add plot for overall sentiment of all parties
+    ax.plot(
+        df.groupby("first_day_week")["sentiment_value"].mean().index,
+        df.groupby("first_day_week")["sentiment_value"].mean(),
+        label="Overall",
+        color=NEUTRAL_COLOR,
+        linestyle="--",
+    )
 
     # Set x-axis tick labels to month names
     plt.xticks(rotation=20)
