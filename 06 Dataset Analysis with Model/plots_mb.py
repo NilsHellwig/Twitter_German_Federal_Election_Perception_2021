@@ -187,16 +187,9 @@ def plot_sentiment(df, filename):
         # Add custom label to the bars
         ax.bar_label(c, label_type="center", color="white", fontsize=10)
 
-    handles, labels = ax.get_legend_handles_labels()
-    # plt.legend(
-    #     reversed(handles),
-    #     reversed(labels),
-    #     loc="center left",
-    #     bbox_to_anchor=(1, 0.5),
-    #     title="Sentiment",
-    # )
-    # Remove legend
-    ax.get_legend().remove()
+    # Add legend
+    legend = ax.legend(title='Sentiment', loc='upper center', bbox_to_anchor=(0.5, 1.3), ncol=3, frameon=False)
+
     plt.xticks(rotation=0)
     plt.ylabel("Proportion", fontsize=18)
     plt.xlabel("Party", fontsize=18)
@@ -206,6 +199,7 @@ def plot_sentiment(df, filename):
         plt.savefig(filename + f_type, dpi=300, bbox_inches="tight")
 
     plt.show()
+
 
 
 def plot_sentiment_line_graph_for_each_month(df, filename):
