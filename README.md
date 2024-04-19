@@ -16,5 +16,5 @@ The Python packages needed to execute the code are listed in `requirements.txt`.
 <img src="https://avatars2.githubusercontent.com/u/44339207?s=60&v=4" width="70">|Nils Constantin Hellwig|Nils-Constantin.Hellwig@student.ur.de
 <img src="https://avatars.githubusercontent.com/u/12990702?v=4" width="70">|Markus Bink|Markus.Bink@student.ur.de
 <img src="https://www.uni-regensburg.de/assets/_processed_/d/0/csm_mi-teamfotos-thomas-schmidt-closeup_c7d3a6f26d.jpg" width="70">|Thomas Schmidt|Thomas.Schmidt@informatik.uni-regensburg.de
-<img src="https://media.licdn.com/dms/image/D4E03AQGi_OjmwXGlpA/profile-displayphoto-shrink_400_400/0/1700270337101?e=1706140800&v=beta&t=EIVrvoaWup3e14eY634sGV2LUQZzT-8BDjMsAHZPoEo" width="70">|Jakob Fehle|Jakob.Fehle@informatik.uni-regensburg.de
+<img src="https://avatars.githubusercontent.com/u/16231319?v=4" width="70">|Jakob Fehle|Jakob.Fehle@informatik.uni-regensburg.de
 <img src="https://www.uni-regensburg.de/assets/_processed_/3/2/csm_mi-teamfotos-christian-wolff-closeup_948f0f672b.jpg" width="70">|Christian Wolff|christian.wolff@ur.de
